@@ -1,0 +1,66 @@
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<figure >
+  <div id="container"></div>
+</figure>
+
+<script>
+    Highcharts.chart('container', {
+  chart: {
+    plotBackgroundColor: "#212121",
+    plotBorderWidth: null,
+    plotShadow: false,
+    type: 'pie'
+  },
+    title: {
+    text: null
+  },
+ 
+  accessibility: {
+    point: {
+      valueSuffix: '%'
+    }
+  },
+  plotOptions: {
+    pie: {
+      allowPointSelect: true,
+      cursor: 'pointer',
+      dataLabels: {
+        enabled: true,
+        color: "White"
+      }
+    }
+  },
+  series: [{
+    name: 'Brands',
+    colorByPoint: true,
+    data: [{
+      name: 'They have a personality I like',
+      y: 44.4,
+      sliced: true,
+     color:'#003060',
+      selected: true
+    }, {
+      name: 'They are good looking',
+      y: 22.7,
+    color:'#055C9D'
+    }, {
+      name: 'They have a sense of humour I like',
+      y: 9.33,
+     color:'#0E86D4'
+    }, {
+      name: 'They are intelligent',
+      y: 11,
+        color:'#68BBE3'
+    }, {
+      name: 'They have similar interests to me',
+      y: 10.9,
+        color:'#5885AF'
+        
+    }, {
+      name: 'They have a decent amount of money',
+      y: 1.74,
+        color:"#BFD7ED"
+    }]
+  }]
+});
+        </script>

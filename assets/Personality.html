@@ -1,0 +1,60 @@
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<figure class="highcharts-figure">
+  <div  id="container"></div>
+</figure>
+<script>
+Highcharts.chart('container', {
+  chart: {
+    type: 'column',
+    plotBackgroundColor: "#212121",
+    BackgroundColor: "#212121",
+    plotBorderWidth: null,
+    plotShadow: false
+  },
+  title: {
+    text: null
+  },
+  xAxis: {
+    type: 'category',
+    BackgroundColor: "#212121"
+  },
+  yAxis: {
+    title: {
+      text: 'Percentage personality',
+    BackgroundColor: "#212121"
+    }
+
+  },
+  legend: {
+    enabled: false
+  },
+    plotOptions: {
+    column: {
+      allowPointSelect: true,
+      cursor: 'pointer',
+      dataLabels: {
+        enabled: true,
+        color: "White"
+      }
+    }
+  },
+  series: [
+    {
+      name: "They have a personality I like",
+      colorByPoint: true,
+      data: [
+        {
+          name: "Men",
+          y: 5.18,
+          color:'#40DFEF'
+        },
+        {
+          name: "Women",
+          y: 7.65,
+          color:'#E78EA9'
+        }
+      ]
+    }
+  ]
+});
+        </script>
