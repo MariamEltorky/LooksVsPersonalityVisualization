@@ -1,0 +1,161 @@
+Nationality,Gender,Value,Measure
+Danish,Men,506,Unweighted Sample
+Danish,Men,504,Weighted Sample
+Danish,Men,77,Ranked personality higher than looks
+Danish,Men,23,Ranked looks higher than personality
+Danish,Women,502,Unweighted Sample
+Danish,Women,503,Weighted Sample
+Danish,Women,93,Ranked personality higher than looks
+Danish,Women,7,Ranked looks higher than personality
+Finnish,Men,502,Unweighted Sample
+Finnish,Men,503,Weighted Sample
+Finnish,Men,77,Ranked personality higher than looks
+Finnish,Men,23,Ranked looks higher than personality
+Finnish,Women,503,Unweighted Sample
+Finnish,Women,502,Weighted Sample
+Finnish,Women,93,Ranked personality higher than looks
+Finnish,Women,7,Ranked looks higher than personality
+British,Men,680,Unweighted Sample
+British,Men,779,Weighted Sample
+British,Men,80,Ranked personality higher than looks
+British,Men,20,Ranked looks higher than personality
+British,Women,929,Unweighted Sample
+British,Women,830,Weighted Sample
+British,Women,91,Ranked personality higher than looks
+British,Women,9,Ranked looks higher than personality
+American,Men,454,Unweighted Sample
+American,Men,530,Weighted Sample
+American,Men,69,Ranked personality higher than looks
+American,Men,31,Ranked looks higher than personality
+American,Women,634,Unweighted Sample
+American,Women,543,Weighted Sample
+American,Women,84,Ranked personality higher than looks
+American,Women,16,Ranked looks higher than personality
+German,Men,972,Unweighted Sample
+German,Men,992,Weighted Sample
+German,Men,73,Ranked personality higher than looks
+German,Men,27,Ranked looks higher than personality
+German,Women,1068,Unweighted Sample
+German,Women,1048,Weighted Sample
+German,Women,88,Ranked personality higher than looks
+German,Women,12,Ranked looks higher than personality
+Australian,Men,483,Unweighted Sample
+Australian,Men,501,Weighted Sample
+Australian,Men,72,Ranked personality higher than looks
+Australian,Men,28,Ranked looks higher than personality
+Australian,Women,525,Unweighted Sample
+Australian,Women,507,Weighted Sample
+Australian,Women,85,Ranked personality higher than looks
+Australian,Women,15,Ranked looks higher than personality
+Malaysian,Men,505,Unweighted Sample
+Malaysian,Men,707,Weighted Sample
+Malaysian,Men,67,Ranked personality higher than looks
+Malaysian,Men,33,Ranked looks higher than personality
+Malaysian,Women,806,Unweighted Sample
+Malaysian,Women,604,Weighted Sample
+Malaysian,Women,82,Ranked personality higher than looks
+Malaysian,Women,18,Ranked looks higher than personality
+Filipino,Men,479,Unweighted Sample
+Filipino,Men,559,Weighted Sample
+Filipino,Men,70,Ranked personality higher than looks
+Filipino,Men,30,Ranked looks higher than personality
+Filipino,Women,618,Unweighted Sample
+Filipino,Women,538,Weighted Sample
+Filipino,Women,82,Ranked personality higher than looks
+Filipino,Women,18,Ranked looks higher than personality
+French,Men,447,Unweighted Sample
+French,Men,485,Weighted Sample
+French,Men,63,Ranked personality higher than looks
+French,Men,37,Ranked looks higher than personality
+French,Women,568,Unweighted Sample
+French,Women,530,Weighted Sample
+French,Women,81,Ranked personality higher than looks
+French,Women,19,Ranked looks higher than personality
+Hong Kong,Men,489,Unweighted Sample
+Hong Kong,Men,538,Weighted Sample
+Hong Kong,Men,59,Ranked personality higher than looks
+Hong Kong,Men,41,Ranked looks higher than personality
+Hong Kong,Women,631,Unweighted Sample
+Hong Kong,Women,582,Weighted Sample
+Hong Kong,Women,76,Ranked personality higher than looks
+Hong Kong,Women,24,Ranked looks higher than personality
+Indonesian,Men,616,Unweighted Sample
+Indonesian,Men,539,Weighted Sample
+Indonesian,Men,52,Ranked personality higher than looks
+Indonesian,Men,48,Ranked looks higher than personality
+Indonesian,Women,429,Unweighted Sample
+Indonesian,Women,506,Weighted Sample
+Indonesian,Women,70,Ranked personality higher than looks
+Indonesian,Women,30,Ranked looks higher than personality
+Saudi Arabian,Men,594,Unweighted Sample
+Saudi Arabian,Men,571,Weighted Sample
+Saudi Arabian,Men,52,Ranked personality higher than looks
+Saudi Arabian,Men,48,Ranked looks higher than personality
+Saudi Arabian,Women,406,Unweighted Sample
+Saudi Arabian,Women,429,Weighted Sample
+Saudi Arabian,Women,79,Ranked personality higher than looks
+Saudi Arabian,Women,21,Ranked looks higher than personality
+UAE,Men,620,Unweighted Sample
+UAE,Men,670,Weighted Sample
+UAE,Men,57,Ranked personality higher than looks
+UAE,Men,43,Ranked looks higher than personality
+UAE,Women,382,Unweighted Sample
+UAE,Women,332,Weighted Sample
+UAE,Women,76,Ranked personality higher than looks
+UAE,Women,24,Ranked looks higher than personality
+Singaporean,Men,496,Unweighted Sample
+Singaporean,Men,506,Weighted Sample
+Singaporean,Men,72,Ranked personality higher than looks
+Singaporean,Men,28,Ranked looks higher than personality
+Singaporean,Women,534,Unweighted Sample
+Singaporean,Women,524,Weighted Sample
+Singaporean,Women,85,Ranked personality higher than looks
+Singaporean,Women,15,Ranked looks higher than personality
+Thai,Men,426,Unweighted Sample
+Thai,Men,503,Weighted Sample
+Thai,Men,54,Ranked personality higher than looks
+Thai,Men,46,Ranked looks higher than personality
+Thai,Women,596,Unweighted Sample
+Thai,Women,519,Weighted Sample
+Thai,Women,61,Ranked personality higher than looks
+Thai,Women,39,Ranked looks higher than personality
+Vietnamese,Men,545,Unweighted Sample
+Vietnamese,Men,532,Weighted Sample
+Vietnamese,Men,46,Ranked personality higher than looks
+Vietnamese,Men,54,Ranked looks higher than personality
+Vietnamese,Women,458,Unweighted Sample
+Vietnamese,Women,471,Weighted Sample
+Vietnamese,Women,64,Ranked personality higher than looks
+Vietnamese,Women,36,Ranked looks higher than personality
+Swedish,Men,507,Unweighted Sample
+Swedish,Men,490,Weighted Sample
+Swedish,Men,80,Ranked personality higher than looks
+Swedish,Men,20,Ranked looks higher than personality
+Swedish,Women,499,Unweighted Sample
+Swedish,Women,523,Weighted Sample
+Swedish,Women,93,Ranked personality higher than looks
+Swedish,Women,7,Ranked looks higher than personality
+Indian,Men,519,Unweighted Sample
+Indian,Men,518,Weighted Sample
+Indian,Men,58,Ranked personality higher than looks
+Indian,Men,42,Ranked looks higher than personality
+Indian,Women,496,Unweighted Sample
+Indian,Women,497,Weighted Sample
+Indian,Women,75,Ranked personality higher than looks
+Indian,Women,25,Ranked looks higher than personality
+Egyptian,Men,524,Unweighted Sample
+Egyptian,Men,511,Weighted Sample
+Egyptian,Men,55,Ranked personality higher than looks
+Egyptian,Men,45,Ranked looks higher than personality
+Egyptian,Women,478,Unweighted Sample
+Egyptian,Women,491,Weighted Sample
+Egyptian,Women,83,Ranked personality higher than looks
+Egyptian,Women,17,Ranked looks higher than personality
+Norwegian,Men,325,Unweighted Sample
+Norwegian,Men,322,Weighted Sample
+Norwegian,Men,81,Ranked personality higher than looks
+Norwegian,Men,19,Ranked looks higher than personality
+Norwegian,Women,308,Unweighted Sample
+Norwegian,Women,311,Weighted Sample
+Norwegian,Women,92,Ranked personality higher than looks
+Norwegian,Women,8,Ranked looks higher than personality

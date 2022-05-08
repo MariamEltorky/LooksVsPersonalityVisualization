@@ -1,0 +1,1369 @@
+,Unweighted_Sample,Weighted_Sample,Q,Nationality,Gender,Rank,Rank (number),Percentage,iso_alpha,country,continent
+0,454,530,They are good looking,American,Men,Ranked first,1,0.18,USA,United States,Americas
+1,454,530,They are good looking,American,Men,Ranked second,2,0.13,USA,United States,Americas
+2,454,530,They are good looking,American,Men,Ranked third,3,0.16,USA,United States,Americas
+3,454,530,They are good looking,American,Men,Ranked fourth,4,0.19,USA,United States,Americas
+4,454,530,They are good looking,American,Men,Ranked fifth,5,0.25,USA,United States,Americas
+5,454,530,They are good looking,American,Men,Ranked sixth,6,0.09,USA,United States,Americas
+6,454,530,They have a personality I like,American,Men,Ranked first,1,0.41,USA,United States,Americas
+7,454,530,They have a personality I like,American,Men,Ranked second,2,0.24,USA,United States,Americas
+8,454,530,They have a personality I like,American,Men,Ranked third,3,0.15,USA,United States,Americas
+9,454,530,They have a personality I like,American,Men,Ranked fourth,4,0.08,USA,United States,Americas
+10,454,530,They have a personality I like,American,Men,Ranked fifth,5,0.08,USA,United States,Americas
+11,454,530,They have a personality I like,American,Men,Ranked sixth,6,0.05,USA,United States,Americas
+12,454,530,They have a sense of humour,American,Men,Ranked first,1,0.09,USA,United States,Americas
+13,454,530,They have a sense of humour,American,Men,Ranked second,2,0.23,USA,United States,Americas
+14,454,530,They have a sense of humour,American,Men,Ranked third,3,0.25,USA,United States,Americas
+15,454,530,They have a sense of humour,American,Men,Ranked fourth,4,0.26,USA,United States,Americas
+16,454,530,They have a sense of humour,American,Men,Ranked fifth,5,0.13,USA,United States,Americas
+17,454,530,They have a sense of humour,American,Men,Ranked sixth,6,0.05,USA,United States,Americas
+18,454,530,They are intelligent,American,Men,Ranked first,1,0.13,USA,United States,Americas
+19,454,530,They are intelligent,American,Men,Ranked second,2,0.18,USA,United States,Americas
+20,454,530,They are intelligent,American,Men,Ranked third,3,0.22,USA,United States,Americas
+21,454,530,They are intelligent,American,Men,Ranked fourth,4,0.22,USA,United States,Americas
+22,454,530,They are intelligent,American,Men,Ranked fifth,5,0.2,USA,United States,Americas
+23,454,530,They are intelligent,American,Men,Ranked sixth,6,0.04,USA,United States,Americas
+24,454,530,They have a decent amount of money,American,Men,Ranked first,1,0.02,USA,United States,Americas
+25,454,530,They have a decent amount of money,American,Men,Ranked second,2,0.04,USA,United States,Americas
+26,454,530,They have a decent amount of money,American,Men,Ranked third,3,0.06,USA,United States,Americas
+27,454,530,They have a decent amount of money,American,Men,Ranked fourth,4,0.06,USA,United States,Americas
+28,454,530,They have a decent amount of money,American,Men,Ranked fifth,5,0.15,USA,United States,Americas
+29,454,530,They have a decent amount of money,American,Men,Ranked sixth,6,0.68,USA,United States,Americas
+30,454,530,They have similar interests to me,American,Men,Ranked first,1,0.17,USA,United States,Americas
+31,454,530,They have similar interests to me,American,Men,Ranked second,2,0.18,USA,United States,Americas
+32,454,530,They have similar interests to me,American,Men,Ranked third,3,0.16,USA,United States,Americas
+33,454,530,They have similar interests to me,American,Men,Ranked fourth,4,0.19,USA,United States,Americas
+34,454,530,They have similar interests to me,American,Men,Ranked fifth,5,0.21,USA,United States,Americas
+35,454,530,They have similar interests to me,American,Men,Ranked sixth,6,0.09,USA,United States,Americas
+36,634,543,They are good looking,American,Women,Ranked first,1,0.1,USA,United States,Americas
+37,634,543,They are good looking,American,Women,Ranked second,2,0.07,USA,United States,Americas
+38,634,543,They are good looking,American,Women,Ranked third,3,0.06,USA,United States,Americas
+39,634,543,They are good looking,American,Women,Ranked fourth,4,0.13,USA,United States,Americas
+40,634,543,They are good looking,American,Women,Ranked fifth,5,0.34,USA,United States,Americas
+41,634,543,They are good looking,American,Women,Ranked sixth,6,0.29,USA,United States,Americas
+42,634,543,They have a personality I like,American,Women,Ranked first,1,0.38,USA,United States,Americas
+43,634,543,They have a personality I like,American,Women,Ranked second,2,0.26,USA,United States,Americas
+44,634,543,They have a personality I like,American,Women,Ranked third,3,0.2,USA,United States,Americas
+45,634,543,They have a personality I like,American,Women,Ranked fourth,4,0.09,USA,United States,Americas
+46,634,543,They have a personality I like,American,Women,Ranked fifth,5,0.04,USA,United States,Americas
+47,634,543,They have a personality I like,American,Women,Ranked sixth,6,0.03,USA,United States,Americas
+48,634,543,They have a sense of humour,American,Women,Ranked first,1,0.13,USA,United States,Americas
+49,634,543,They have a sense of humour,American,Women,Ranked second,2,0.27,USA,United States,Americas
+50,634,543,They have a sense of humour,American,Women,Ranked third,3,0.24,USA,United States,Americas
+51,634,543,They have a sense of humour,American,Women,Ranked fourth,4,0.18,USA,United States,Americas
+52,634,543,They have a sense of humour,American,Women,Ranked fifth,5,0.11,USA,United States,Americas
+53,634,543,They have a sense of humour,American,Women,Ranked sixth,6,0.07,USA,United States,Americas
+54,634,543,They are intelligent,American,Women,Ranked first,1,0.15,USA,United States,Americas
+55,634,543,They are intelligent,American,Women,Ranked second,2,0.19,USA,United States,Americas
+56,634,543,They are intelligent,American,Women,Ranked third,3,0.25,USA,United States,Americas
+57,634,543,They are intelligent,American,Women,Ranked fourth,4,0.28,USA,United States,Americas
+58,634,543,They are intelligent,American,Women,Ranked fifth,5,0.08,USA,United States,Americas
+59,634,543,They are intelligent,American,Women,Ranked sixth,6,0.04,USA,United States,Americas
+60,634,543,They have a decent amount of money,American,Women,Ranked first,1,0.03,USA,United States,Americas
+61,634,543,They have a decent amount of money,American,Women,Ranked second,2,0.04,USA,United States,Americas
+62,634,543,They have a decent amount of money,American,Women,Ranked third,3,0.06,USA,United States,Americas
+63,634,543,They have a decent amount of money,American,Women,Ranked fourth,4,0.1,USA,United States,Americas
+64,634,543,They have a decent amount of money,American,Women,Ranked fifth,5,0.27,USA,United States,Americas
+65,634,543,They have a decent amount of money,American,Women,Ranked sixth,6,0.49,USA,United States,Americas
+66,634,543,They have similar interests to me,American,Women,Ranked first,1,0.2,USA,United States,Americas
+67,634,543,They have similar interests to me,American,Women,Ranked second,2,0.17,USA,United States,Americas
+68,634,543,They have similar interests to me,American,Women,Ranked third,3,0.18,USA,United States,Americas
+69,634,543,They have similar interests to me,American,Women,Ranked fourth,4,0.22,USA,United States,Americas
+70,634,543,They have similar interests to me,American,Women,Ranked fifth,5,0.15,USA,United States,Americas
+71,634,543,They have similar interests to me,American,Women,Ranked sixth,6,0.08,USA,United States,Americas
+72,483,501,They are good looking,Australian,Men,Ranked first,1,0.18,AUS,Australia,Oceania
+73,483,501,They are good looking,Australian,Men,Ranked second,2,0.13,AUS,Australia,Oceania
+74,483,501,They are good looking,Australian,Men,Ranked third,3,0.17,AUS,Australia,Oceania
+75,483,501,They are good looking,Australian,Men,Ranked fourth,4,0.19,AUS,Australia,Oceania
+76,483,501,They are good looking,Australian,Men,Ranked fifth,5,0.26,AUS,Australia,Oceania
+77,483,501,They are good looking,Australian,Men,Ranked sixth,6,0.08,AUS,Australia,Oceania
+78,483,501,They have a personality I like,Australian,Men,Ranked first,1,0.42,AUS,Australia,Oceania
+79,483,501,They have a personality I like,Australian,Men,Ranked second,2,0.23,AUS,Australia,Oceania
+80,483,501,They have a personality I like,Australian,Men,Ranked third,3,0.15,AUS,Australia,Oceania
+81,483,501,They have a personality I like,Australian,Men,Ranked fourth,4,0.09,AUS,Australia,Oceania
+82,483,501,They have a personality I like,Australian,Men,Ranked fifth,5,0.07,AUS,Australia,Oceania
+83,483,501,They have a personality I like,Australian,Men,Ranked sixth,6,0.03,AUS,Australia,Oceania
+84,483,501,They have a sense of humour,Australian,Men,Ranked first,1,0.1,AUS,Australia,Oceania
+85,483,501,They have a sense of humour,Australian,Men,Ranked second,2,0.27,AUS,Australia,Oceania
+86,483,501,They have a sense of humour,Australian,Men,Ranked third,3,0.27,AUS,Australia,Oceania
+87,483,501,They have a sense of humour,Australian,Men,Ranked fourth,4,0.18,AUS,Australia,Oceania
+88,483,501,They have a sense of humour,Australian,Men,Ranked fifth,5,0.14,AUS,Australia,Oceania
+89,483,501,They have a sense of humour,Australian,Men,Ranked sixth,6,0.03,AUS,Australia,Oceania
+90,483,501,They are intelligent,Australian,Men,Ranked first,1,0.14,AUS,Australia,Oceania
+91,483,501,They are intelligent,Australian,Men,Ranked second,2,0.16,AUS,Australia,Oceania
+92,483,501,They are intelligent,Australian,Men,Ranked third,3,0.2,AUS,Australia,Oceania
+93,483,501,They are intelligent,Australian,Men,Ranked fourth,4,0.25,AUS,Australia,Oceania
+94,483,501,They are intelligent,Australian,Men,Ranked fifth,5,0.18,AUS,Australia,Oceania
+95,483,501,They are intelligent,Australian,Men,Ranked sixth,6,0.06,AUS,Australia,Oceania
+96,483,501,They have a decent amount of money,Australian,Men,Ranked first,1,0.02,AUS,Australia,Oceania
+97,483,501,They have a decent amount of money,Australian,Men,Ranked second,2,0.03,AUS,Australia,Oceania
+98,483,501,They have a decent amount of money,Australian,Men,Ranked third,3,0.05,AUS,Australia,Oceania
+99,483,501,They have a decent amount of money,Australian,Men,Ranked fourth,4,0.06,AUS,Australia,Oceania
+100,483,501,They have a decent amount of money,Australian,Men,Ranked fifth,5,0.13,AUS,Australia,Oceania
+101,483,501,They have a decent amount of money,Australian,Men,Ranked sixth,6,0.7,AUS,Australia,Oceania
+102,483,501,They have similar interests to me,Australian,Men,Ranked first,1,0.13,AUS,Australia,Oceania
+103,483,501,They have similar interests to me,Australian,Men,Ranked second,2,0.18,AUS,Australia,Oceania
+104,483,501,They have similar interests to me,Australian,Men,Ranked third,3,0.15,AUS,Australia,Oceania
+105,483,501,They have similar interests to me,Australian,Men,Ranked fourth,4,0.22,AUS,Australia,Oceania
+106,483,501,They have similar interests to me,Australian,Men,Ranked fifth,5,0.22,AUS,Australia,Oceania
+107,483,501,They have similar interests to me,Australian,Men,Ranked sixth,6,0.09,AUS,Australia,Oceania
+108,525,507,They are good looking,Australian,Women,Ranked first,1,0.1,AUS,Australia,Oceania
+109,525,507,They are good looking,Australian,Women,Ranked second,2,0.07,AUS,Australia,Oceania
+110,525,507,They are good looking,Australian,Women,Ranked third,3,0.16,AUS,Australia,Oceania
+111,525,507,They are good looking,Australian,Women,Ranked fourth,4,0.12,AUS,Australia,Oceania
+112,525,507,They are good looking,Australian,Women,Ranked fifth,5,0.37,AUS,Australia,Oceania
+113,525,507,They are good looking,Australian,Women,Ranked sixth,6,0.19,AUS,Australia,Oceania
+114,525,507,They have a personality I like,Australian,Women,Ranked first,1,0.49,AUS,Australia,Oceania
+115,525,507,They have a personality I like,Australian,Women,Ranked second,2,0.24,AUS,Australia,Oceania
+116,525,507,They have a personality I like,Australian,Women,Ranked third,3,0.14,AUS,Australia,Oceania
+117,525,507,They have a personality I like,Australian,Women,Ranked fourth,4,0.08,AUS,Australia,Oceania
+118,525,507,They have a personality I like,Australian,Women,Ranked fifth,5,0.04,AUS,Australia,Oceania
+119,525,507,They have a personality I like,Australian,Women,Ranked sixth,6,0.02,AUS,Australia,Oceania
+120,525,507,They have a sense of humour,Australian,Women,Ranked first,1,0.15,AUS,Australia,Oceania
+121,525,507,They have a sense of humour,Australian,Women,Ranked second,2,0.32,AUS,Australia,Oceania
+122,525,507,They have a sense of humour,Australian,Women,Ranked third,3,0.24,AUS,Australia,Oceania
+123,525,507,They have a sense of humour,Australian,Women,Ranked fourth,4,0.16,AUS,Australia,Oceania
+124,525,507,They have a sense of humour,Australian,Women,Ranked fifth,5,0.08,AUS,Australia,Oceania
+125,525,507,They have a sense of humour,Australian,Women,Ranked sixth,6,0.05,AUS,Australia,Oceania
+126,525,507,They are intelligent,Australian,Women,Ranked first,1,0.1,AUS,Australia,Oceania
+127,525,507,They are intelligent,Australian,Women,Ranked second,2,0.19,AUS,Australia,Oceania
+128,525,507,They are intelligent,Australian,Women,Ranked third,3,0.2,AUS,Australia,Oceania
+129,525,507,They are intelligent,Australian,Women,Ranked fourth,4,0.27,AUS,Australia,Oceania
+130,525,507,They are intelligent,Australian,Women,Ranked fifth,5,0.19,AUS,Australia,Oceania
+131,525,507,They are intelligent,Australian,Women,Ranked sixth,6,0.05,AUS,Australia,Oceania
+132,525,507,They have a decent amount of money,Australian,Women,Ranked first,1,0.01,AUS,Australia,Oceania
+133,525,507,They have a decent amount of money,Australian,Women,Ranked second,2,0.03,AUS,Australia,Oceania
+134,525,507,They have a decent amount of money,Australian,Women,Ranked third,3,0.07,AUS,Australia,Oceania
+135,525,507,They have a decent amount of money,Australian,Women,Ranked fourth,4,0.11,AUS,Australia,Oceania
+136,525,507,They have a decent amount of money,Australian,Women,Ranked fifth,5,0.2,AUS,Australia,Oceania
+137,525,507,They have a decent amount of money,Australian,Women,Ranked sixth,6,0.59,AUS,Australia,Oceania
+138,525,507,They have similar interests to me,Australian,Women,Ranked first,1,0.15,AUS,Australia,Oceania
+139,525,507,They have similar interests to me,Australian,Women,Ranked second,2,0.15,AUS,Australia,Oceania
+140,525,507,They have similar interests to me,Australian,Women,Ranked third,3,0.2,AUS,Australia,Oceania
+141,525,507,They have similar interests to me,Australian,Women,Ranked fourth,4,0.25,AUS,Australia,Oceania
+142,525,507,They have similar interests to me,Australian,Women,Ranked fifth,5,0.14,AUS,Australia,Oceania
+143,525,507,They have similar interests to me,Australian,Women,Ranked sixth,6,0.11,AUS,Australia,Oceania
+144,680,779,They are good looking,British,Men,Ranked first,1,0.14,GBR,United Kingdom,Europe
+145,680,779,They are good looking,British,Men,Ranked second,2,0.15,GBR,United Kingdom,Europe
+146,680,779,They are good looking,British,Men,Ranked third,3,0.18,GBR,United Kingdom,Europe
+147,680,779,They are good looking,British,Men,Ranked fourth,4,0.2,GBR,United Kingdom,Europe
+148,680,779,They are good looking,British,Men,Ranked fifth,5,0.27,GBR,United Kingdom,Europe
+149,680,779,They are good looking,British,Men,Ranked sixth,6,0.06,GBR,United Kingdom,Europe
+150,680,779,They have a personality I like,British,Men,Ranked first,1,0.52,GBR,United Kingdom,Europe
+151,680,779,They have a personality I like,British,Men,Ranked second,2,0.23,GBR,United Kingdom,Europe
+152,680,779,They have a personality I like,British,Men,Ranked third,3,0.14,GBR,United Kingdom,Europe
+153,680,779,They have a personality I like,British,Men,Ranked fourth,4,0.05,GBR,United Kingdom,Europe
+154,680,779,They have a personality I like,British,Men,Ranked fifth,5,0.04,GBR,United Kingdom,Europe
+155,680,779,They have a personality I like,British,Men,Ranked sixth,6,0.02,GBR,United Kingdom,Europe
+156,680,779,They have a sense of humour,British,Men,Ranked first,1,0.13,GBR,United Kingdom,Europe
+157,680,779,They have a sense of humour,British,Men,Ranked second,2,0.32,GBR,United Kingdom,Europe
+158,680,779,They have a sense of humour,British,Men,Ranked third,3,0.25,GBR,United Kingdom,Europe
+159,680,779,They have a sense of humour,British,Men,Ranked fourth,4,0.21,GBR,United Kingdom,Europe
+160,680,779,They have a sense of humour,British,Men,Ranked fifth,5,0.08,GBR,United Kingdom,Europe
+161,680,779,They have a sense of humour,British,Men,Ranked sixth,6,0.02,GBR,United Kingdom,Europe
+162,680,779,They are intelligent,British,Men,Ranked first,1,0.1,GBR,United Kingdom,Europe
+163,680,779,They are intelligent,British,Men,Ranked second,2,0.13,GBR,United Kingdom,Europe
+164,680,779,They are intelligent,British,Men,Ranked third,3,0.22,GBR,United Kingdom,Europe
+165,680,779,They are intelligent,British,Men,Ranked fourth,4,0.26,GBR,United Kingdom,Europe
+166,680,779,They are intelligent,British,Men,Ranked fifth,5,0.27,GBR,United Kingdom,Europe
+167,680,779,They are intelligent,British,Men,Ranked sixth,6,0.02,GBR,United Kingdom,Europe
+168,680,779,They have a decent amount of money,British,Men,Ranked first,1,0.01,GBR,United Kingdom,Europe
+169,680,779,They have a decent amount of money,British,Men,Ranked second,2,0.02,GBR,United Kingdom,Europe
+170,680,779,They have a decent amount of money,British,Men,Ranked third,3,0.02,GBR,United Kingdom,Europe
+171,680,779,They have a decent amount of money,British,Men,Ranked fourth,4,0.02,GBR,United Kingdom,Europe
+172,680,779,They have a decent amount of money,British,Men,Ranked fifth,5,0.09,GBR,United Kingdom,Europe
+173,680,779,They have a decent amount of money,British,Men,Ranked sixth,6,0.85,GBR,United Kingdom,Europe
+174,680,779,They have similar interests to me,British,Men,Ranked first,1,0.1,GBR,United Kingdom,Europe
+175,680,779,They have similar interests to me,British,Men,Ranked second,2,0.16,GBR,United Kingdom,Europe
+176,680,779,They have similar interests to me,British,Men,Ranked third,3,0.2,GBR,United Kingdom,Europe
+177,680,779,They have similar interests to me,British,Men,Ranked fourth,4,0.25,GBR,United Kingdom,Europe
+178,680,779,They have similar interests to me,British,Men,Ranked fifth,5,0.26,GBR,United Kingdom,Europe
+179,680,779,They have similar interests to me,British,Men,Ranked sixth,6,0.03,GBR,United Kingdom,Europe
+180,929,830,They are good looking,British,Women,Ranked first,1,0.05,GBR,United Kingdom,Europe
+181,929,830,They are good looking,British,Women,Ranked second,2,0.06,GBR,United Kingdom,Europe
+182,929,830,They are good looking,British,Women,Ranked third,3,0.09,GBR,United Kingdom,Europe
+183,929,830,They are good looking,British,Women,Ranked fourth,4,0.17,GBR,United Kingdom,Europe
+184,929,830,They are good looking,British,Women,Ranked fifth,5,0.41,GBR,United Kingdom,Europe
+185,929,830,They are good looking,British,Women,Ranked sixth,6,0.21,GBR,United Kingdom,Europe
+186,929,830,They have a personality I like,British,Women,Ranked first,1,0.52,GBR,United Kingdom,Europe
+187,929,830,They have a personality I like,British,Women,Ranked second,2,0.25,GBR,United Kingdom,Europe
+188,929,830,They have a personality I like,British,Women,Ranked third,3,0.16,GBR,United Kingdom,Europe
+189,929,830,They have a personality I like,British,Women,Ranked fourth,4,0.05,GBR,United Kingdom,Europe
+190,929,830,They have a personality I like,British,Women,Ranked fifth,5,0.02,GBR,United Kingdom,Europe
+191,929,830,They have a personality I like,British,Women,Ranked sixth,6,0.01,GBR,United Kingdom,Europe
+192,929,830,They have a sense of humour,British,Women,Ranked first,1,0.21,GBR,United Kingdom,Europe
+193,929,830,They have a sense of humour,British,Women,Ranked second,2,0.33,GBR,United Kingdom,Europe
+194,929,830,They have a sense of humour,British,Women,Ranked third,3,0.24,GBR,United Kingdom,Europe
+195,929,830,They have a sense of humour,British,Women,Ranked fourth,4,0.14,GBR,United Kingdom,Europe
+196,929,830,They have a sense of humour,British,Women,Ranked fifth,5,0.07,GBR,United Kingdom,Europe
+197,929,830,They have a sense of humour,British,Women,Ranked sixth,6,0.01,GBR,United Kingdom,Europe
+198,929,830,They are intelligent,British,Women,Ranked first,1,0.08,GBR,United Kingdom,Europe
+199,929,830,They are intelligent,British,Women,Ranked second,2,0.14,GBR,United Kingdom,Europe
+200,929,830,They are intelligent,British,Women,Ranked third,3,0.2,GBR,United Kingdom,Europe
+201,929,830,They are intelligent,British,Women,Ranked fourth,4,0.39,GBR,United Kingdom,Europe
+202,929,830,They are intelligent,British,Women,Ranked fifth,5,0.16,GBR,United Kingdom,Europe
+203,929,830,They are intelligent,British,Women,Ranked sixth,6,0.04,GBR,United Kingdom,Europe
+204,929,830,They have a decent amount of money,British,Women,Ranked first,1,0.01,GBR,United Kingdom,Europe
+205,929,830,They have a decent amount of money,British,Women,Ranked second,2,0.02,GBR,United Kingdom,Europe
+206,929,830,They have a decent amount of money,British,Women,Ranked third,3,0.03,GBR,United Kingdom,Europe
+207,929,830,They have a decent amount of money,British,Women,Ranked fourth,4,0.05,GBR,United Kingdom,Europe
+208,929,830,They have a decent amount of money,British,Women,Ranked fifth,5,0.22,GBR,United Kingdom,Europe
+209,929,830,They have a decent amount of money,British,Women,Ranked sixth,6,0.67,GBR,United Kingdom,Europe
+210,929,830,They have similar interests to me,British,Women,Ranked first,1,0.13,GBR,United Kingdom,Europe
+211,929,830,They have similar interests to me,British,Women,Ranked second,2,0.21,GBR,United Kingdom,Europe
+212,929,830,They have similar interests to me,British,Women,Ranked third,3,0.28,GBR,United Kingdom,Europe
+213,929,830,They have similar interests to me,British,Women,Ranked fourth,4,0.2,GBR,United Kingdom,Europe
+214,929,830,They have similar interests to me,British,Women,Ranked fifth,5,0.13,GBR,United Kingdom,Europe
+215,929,830,They have similar interests to me,British,Women,Ranked sixth,6,0.06,GBR,United Kingdom,Europe
+216,506,504,They are good looking,Danish,Men,Ranked first,1,0.11,DNK,Denmark,Europe
+217,506,504,They are good looking,Danish,Men,Ranked second,2,0.16,DNK,Denmark,Europe
+218,506,504,They are good looking,Danish,Men,Ranked third,3,0.18,DNK,Denmark,Europe
+219,506,504,They are good looking,Danish,Men,Ranked fourth,4,0.22,DNK,Denmark,Europe
+220,506,504,They are good looking,Danish,Men,Ranked fifth,5,0.28,DNK,Denmark,Europe
+221,506,504,They are good looking,Danish,Men,Ranked sixth,6,0.05,DNK,Denmark,Europe
+222,506,504,They have a personality I like,Danish,Men,Ranked first,1,0.68,DNK,Denmark,Europe
+223,506,504,They have a personality I like,Danish,Men,Ranked second,2,0.18,DNK,Denmark,Europe
+224,506,504,They have a personality I like,Danish,Men,Ranked third,3,0.08,DNK,Denmark,Europe
+225,506,504,They have a personality I like,Danish,Men,Ranked fourth,4,0.03,DNK,Denmark,Europe
+226,506,504,They have a personality I like,Danish,Men,Ranked fifth,5,0.02,DNK,Denmark,Europe
+227,506,504,They have a personality I like,Danish,Men,Ranked sixth,6,0.01,DNK,Denmark,Europe
+228,506,504,They have a sense of humour,Danish,Men,Ranked first,1,0.08,DNK,Denmark,Europe
+229,506,504,They have a sense of humour,Danish,Men,Ranked second,2,0.37,DNK,Denmark,Europe
+230,506,504,They have a sense of humour,Danish,Men,Ranked third,3,0.25,DNK,Denmark,Europe
+231,506,504,They have a sense of humour,Danish,Men,Ranked fourth,4,0.19,DNK,Denmark,Europe
+232,506,504,They have a sense of humour,Danish,Men,Ranked fifth,5,0.09,DNK,Denmark,Europe
+233,506,504,They have a sense of humour,Danish,Men,Ranked sixth,6,0.02,DNK,Denmark,Europe
+234,506,504,They are intelligent,Danish,Men,Ranked first,1,0.09,DNK,Denmark,Europe
+235,506,504,They are intelligent,Danish,Men,Ranked second,2,0.15,DNK,Denmark,Europe
+236,506,504,They are intelligent,Danish,Men,Ranked third,3,0.31,DNK,Denmark,Europe
+237,506,504,They are intelligent,Danish,Men,Ranked fourth,4,0.28,DNK,Denmark,Europe
+238,506,504,They are intelligent,Danish,Men,Ranked fifth,5,0.14,DNK,Denmark,Europe
+239,506,504,They are intelligent,Danish,Men,Ranked sixth,6,0.02,DNK,Denmark,Europe
+240,506,504,They have a decent amount of money,Danish,Men,Ranked first,1,0,DNK,Denmark,Europe
+241,506,504,They have a decent amount of money,Danish,Men,Ranked second,2,0.01,DNK,Denmark,Europe
+242,506,504,They have a decent amount of money,Danish,Men,Ranked third,3,0.03,DNK,Denmark,Europe
+243,506,504,They have a decent amount of money,Danish,Men,Ranked fourth,4,0.03,DNK,Denmark,Europe
+244,506,504,They have a decent amount of money,Danish,Men,Ranked fifth,5,0.11,DNK,Denmark,Europe
+245,506,504,They have a decent amount of money,Danish,Men,Ranked sixth,6,0.81,DNK,Denmark,Europe
+246,506,504,They have similar interests to me,Danish,Men,Ranked first,1,0.04,DNK,Denmark,Europe
+247,506,504,They have similar interests to me,Danish,Men,Ranked second,2,0.12,DNK,Denmark,Europe
+248,506,504,They have similar interests to me,Danish,Men,Ranked third,3,0.15,DNK,Denmark,Europe
+249,506,504,They have similar interests to me,Danish,Men,Ranked fourth,4,0.25,DNK,Denmark,Europe
+250,506,504,They have similar interests to me,Danish,Men,Ranked fifth,5,0.35,DNK,Denmark,Europe
+251,506,504,They have similar interests to me,Danish,Men,Ranked sixth,6,0.08,DNK,Denmark,Europe
+252,502,503,They are good looking,Danish,Women,Ranked first,1,0.05,DNK,Denmark,Europe
+253,502,503,They are good looking,Danish,Women,Ranked second,2,0.06,DNK,Denmark,Europe
+254,502,503,They are good looking,Danish,Women,Ranked third,3,0.11,DNK,Denmark,Europe
+255,502,503,They are good looking,Danish,Women,Ranked fourth,4,0.19,DNK,Denmark,Europe
+256,502,503,They are good looking,Danish,Women,Ranked fifth,5,0.44,DNK,Denmark,Europe
+257,502,503,They are good looking,Danish,Women,Ranked sixth,6,0.16,DNK,Denmark,Europe
+258,502,503,They have a personality I like,Danish,Women,Ranked first,1,0.69,DNK,Denmark,Europe
+259,502,503,They have a personality I like,Danish,Women,Ranked second,2,0.17,DNK,Denmark,Europe
+260,502,503,They have a personality I like,Danish,Women,Ranked third,3,0.1,DNK,Denmark,Europe
+261,502,503,They have a personality I like,Danish,Women,Ranked fourth,4,0.02,DNK,Denmark,Europe
+262,502,503,They have a personality I like,Danish,Women,Ranked fifth,5,0.01,DNK,Denmark,Europe
+263,502,503,They have a personality I like,Danish,Women,Ranked sixth,6,0.01,DNK,Denmark,Europe
+264,502,503,They have a sense of humour,Danish,Women,Ranked first,1,0.14,DNK,Denmark,Europe
+265,502,503,They have a sense of humour,Danish,Women,Ranked second,2,0.45,DNK,Denmark,Europe
+266,502,503,They have a sense of humour,Danish,Women,Ranked third,3,0.25,DNK,Denmark,Europe
+267,502,503,They have a sense of humour,Danish,Women,Ranked fourth,4,0.11,DNK,Denmark,Europe
+268,502,503,They have a sense of humour,Danish,Women,Ranked fifth,5,0.03,DNK,Denmark,Europe
+269,502,503,They have a sense of humour,Danish,Women,Ranked sixth,6,0.01,DNK,Denmark,Europe
+270,502,503,They are intelligent,Danish,Women,Ranked first,1,0.07,DNK,Denmark,Europe
+271,502,503,They are intelligent,Danish,Women,Ranked second,2,0.19,DNK,Denmark,Europe
+272,502,503,They are intelligent,Danish,Women,Ranked third,3,0.31,DNK,Denmark,Europe
+273,502,503,They are intelligent,Danish,Women,Ranked fourth,4,0.29,DNK,Denmark,Europe
+274,502,503,They are intelligent,Danish,Women,Ranked fifth,5,0.12,DNK,Denmark,Europe
+275,502,503,They are intelligent,Danish,Women,Ranked sixth,6,0.02,DNK,Denmark,Europe
+276,502,503,They have a decent amount of money,Danish,Women,Ranked first,1,0,DNK,Denmark,Europe
+277,502,503,They have a decent amount of money,Danish,Women,Ranked second,2,0.02,DNK,Denmark,Europe
+278,502,503,They have a decent amount of money,Danish,Women,Ranked third,3,0.02,DNK,Denmark,Europe
+279,502,503,They have a decent amount of money,Danish,Women,Ranked fourth,4,0.04,DNK,Denmark,Europe
+280,502,503,They have a decent amount of money,Danish,Women,Ranked fifth,5,0.2,DNK,Denmark,Europe
+281,502,503,They have a decent amount of money,Danish,Women,Ranked sixth,6,0.72,DNK,Denmark,Europe
+282,502,503,They have similar interests to me,Danish,Women,Ranked first,1,0.05,DNK,Denmark,Europe
+283,502,503,They have similar interests to me,Danish,Women,Ranked second,2,0.12,DNK,Denmark,Europe
+284,502,503,They have similar interests to me,Danish,Women,Ranked third,3,0.21,DNK,Denmark,Europe
+285,502,503,They have similar interests to me,Danish,Women,Ranked fourth,4,0.34,DNK,Denmark,Europe
+286,502,503,They have similar interests to me,Danish,Women,Ranked fifth,5,0.2,DNK,Denmark,Europe
+287,502,503,They have similar interests to me,Danish,Women,Ranked sixth,6,0.08,DNK,Denmark,Europe
+288,524,511,They are good looking,Egyptian,Men,Ranked first,1,0.31,EGY,Egypt,Africa
+289,524,511,They are good looking,Egyptian,Men,Ranked second,2,0.19,EGY,Egypt,Africa
+290,524,511,They are good looking,Egyptian,Men,Ranked third,3,0.18,EGY,Egypt,Africa
+291,524,511,They are good looking,Egyptian,Men,Ranked fourth,4,0.13,EGY,Egypt,Africa
+292,524,511,They are good looking,Egyptian,Men,Ranked fifth,5,0.15,EGY,Egypt,Africa
+293,524,511,They are good looking,Egyptian,Men,Ranked sixth,6,0.03,EGY,Egypt,Africa
+294,524,511,They have a personality I like,Egyptian,Men,Ranked first,1,0.36,EGY,Egypt,Africa
+295,524,511,They have a personality I like,Egyptian,Men,Ranked second,2,0.23,EGY,Egypt,Africa
+296,524,511,They have a personality I like,Egyptian,Men,Ranked third,3,0.17,EGY,Egypt,Africa
+297,524,511,They have a personality I like,Egyptian,Men,Ranked fourth,4,0.12,EGY,Egypt,Africa
+298,524,511,They have a personality I like,Egyptian,Men,Ranked fifth,5,0.07,EGY,Egypt,Africa
+299,524,511,They have a personality I like,Egyptian,Men,Ranked sixth,6,0.05,EGY,Egypt,Africa
+300,524,511,They have a sense of humour,Egyptian,Men,Ranked first,1,0.06,EGY,Egypt,Africa
+301,524,511,They have a sense of humour,Egyptian,Men,Ranked second,2,0.16,EGY,Egypt,Africa
+302,524,511,They have a sense of humour,Egyptian,Men,Ranked third,3,0.16,EGY,Egypt,Africa
+303,524,511,They have a sense of humour,Egyptian,Men,Ranked fourth,4,0.27,EGY,Egypt,Africa
+304,524,511,They have a sense of humour,Egyptian,Men,Ranked fifth,5,0.27,EGY,Egypt,Africa
+305,524,511,They have a sense of humour,Egyptian,Men,Ranked sixth,6,0.07,EGY,Egypt,Africa
+306,524,511,They are intelligent,Egyptian,Men,Ranked first,1,0.15,EGY,Egypt,Africa
+307,524,511,They are intelligent,Egyptian,Men,Ranked second,2,0.24,EGY,Egypt,Africa
+308,524,511,They are intelligent,Egyptian,Men,Ranked third,3,0.25,EGY,Egypt,Africa
+309,524,511,They are intelligent,Egyptian,Men,Ranked fourth,4,0.22,EGY,Egypt,Africa
+310,524,511,They are intelligent,Egyptian,Men,Ranked fifth,5,0.11,EGY,Egypt,Africa
+311,524,511,They are intelligent,Egyptian,Men,Ranked sixth,6,0.03,EGY,Egypt,Africa
+312,524,511,They have a decent amount of money,Egyptian,Men,Ranked first,1,0.01,EGY,Egypt,Africa
+313,524,511,They have a decent amount of money,Egyptian,Men,Ranked second,2,0.03,EGY,Egypt,Africa
+314,524,511,They have a decent amount of money,Egyptian,Men,Ranked third,3,0.05,EGY,Egypt,Africa
+315,524,511,They have a decent amount of money,Egyptian,Men,Ranked fourth,4,0.05,EGY,Egypt,Africa
+316,524,511,They have a decent amount of money,Egyptian,Men,Ranked fifth,5,0.13,EGY,Egypt,Africa
+317,524,511,They have a decent amount of money,Egyptian,Men,Ranked sixth,6,0.72,EGY,Egypt,Africa
+318,524,511,They have similar interests to me,Egyptian,Men,Ranked first,1,0.11,EGY,Egypt,Africa
+319,524,511,They have similar interests to me,Egyptian,Men,Ranked second,2,0.14,EGY,Egypt,Africa
+320,524,511,They have similar interests to me,Egyptian,Men,Ranked third,3,0.19,EGY,Egypt,Africa
+321,524,511,They have similar interests to me,Egyptian,Men,Ranked fourth,4,0.21,EGY,Egypt,Africa
+322,524,511,They have similar interests to me,Egyptian,Men,Ranked fifth,5,0.26,EGY,Egypt,Africa
+323,524,511,They have similar interests to me,Egyptian,Men,Ranked sixth,6,0.09,EGY,Egypt,Africa
+324,478,491,They are good looking,Egyptian,Women,Ranked first,1,0.12,EGY,Egypt,Africa
+325,478,491,They are good looking,Egyptian,Women,Ranked second,2,0.09,EGY,Egypt,Africa
+326,478,491,They are good looking,Egyptian,Women,Ranked third,3,0.13,EGY,Egypt,Africa
+327,478,491,They are good looking,Egyptian,Women,Ranked fourth,4,0.2,EGY,Egypt,Africa
+328,478,491,They are good looking,Egyptian,Women,Ranked fifth,5,0.27,EGY,Egypt,Africa
+329,478,491,They are good looking,Egyptian,Women,Ranked sixth,6,0.2,EGY,Egypt,Africa
+330,478,491,They have a personality I like,Egyptian,Women,Ranked first,1,0.53,EGY,Egypt,Africa
+331,478,491,They have a personality I like,Egyptian,Women,Ranked second,2,0.21,EGY,Egypt,Africa
+332,478,491,They have a personality I like,Egyptian,Women,Ranked third,3,0.11,EGY,Egypt,Africa
+333,478,491,They have a personality I like,Egyptian,Women,Ranked fourth,4,0.07,EGY,Egypt,Africa
+334,478,491,They have a personality I like,Egyptian,Women,Ranked fifth,5,0.06,EGY,Egypt,Africa
+335,478,491,They have a personality I like,Egyptian,Women,Ranked sixth,6,0.02,EGY,Egypt,Africa
+336,478,491,They have a sense of humour,Egyptian,Women,Ranked first,1,0.06,EGY,Egypt,Africa
+337,478,491,They have a sense of humour,Egyptian,Women,Ranked second,2,0.17,EGY,Egypt,Africa
+338,478,491,They have a sense of humour,Egyptian,Women,Ranked third,3,0.17,EGY,Egypt,Africa
+339,478,491,They have a sense of humour,Egyptian,Women,Ranked fourth,4,0.27,EGY,Egypt,Africa
+340,478,491,They have a sense of humour,Egyptian,Women,Ranked fifth,5,0.21,EGY,Egypt,Africa
+341,478,491,They have a sense of humour,Egyptian,Women,Ranked sixth,6,0.11,EGY,Egypt,Africa
+342,478,491,They are intelligent,Egyptian,Women,Ranked first,1,0.13,EGY,Egypt,Africa
+343,478,491,They are intelligent,Egyptian,Women,Ranked second,2,0.29,EGY,Egypt,Africa
+344,478,491,They are intelligent,Egyptian,Women,Ranked third,3,0.27,EGY,Egypt,Africa
+345,478,491,They are intelligent,Egyptian,Women,Ranked fourth,4,0.16,EGY,Egypt,Africa
+346,478,491,They are intelligent,Egyptian,Women,Ranked fifth,5,0.1,EGY,Egypt,Africa
+347,478,491,They are intelligent,Egyptian,Women,Ranked sixth,6,0.05,EGY,Egypt,Africa
+348,478,491,They have a decent amount of money,Egyptian,Women,Ranked first,1,0.01,EGY,Egypt,Africa
+349,478,491,They have a decent amount of money,Egyptian,Women,Ranked second,2,0.05,EGY,Egypt,Africa
+350,478,491,They have a decent amount of money,Egyptian,Women,Ranked third,3,0.1,EGY,Egypt,Africa
+351,478,491,They have a decent amount of money,Egyptian,Women,Ranked fourth,4,0.14,EGY,Egypt,Africa
+352,478,491,They have a decent amount of money,Egyptian,Women,Ranked fifth,5,0.22,EGY,Egypt,Africa
+353,478,491,They have a decent amount of money,Egyptian,Women,Ranked sixth,6,0.48,EGY,Egypt,Africa
+354,478,491,They have similar interests to me,Egyptian,Women,Ranked first,1,0.14,EGY,Egypt,Africa
+355,478,491,They have similar interests to me,Egyptian,Women,Ranked second,2,0.19,EGY,Egypt,Africa
+356,478,491,They have similar interests to me,Egyptian,Women,Ranked third,3,0.23,EGY,Egypt,Africa
+357,478,491,They have similar interests to me,Egyptian,Women,Ranked fourth,4,0.16,EGY,Egypt,Africa
+358,478,491,They have similar interests to me,Egyptian,Women,Ranked fifth,5,0.15,EGY,Egypt,Africa
+359,478,491,They have similar interests to me,Egyptian,Women,Ranked sixth,6,0.13,EGY,Egypt,Africa
+360,479,559,They are good looking,Filipino,Men,Ranked first,1,0.2,PHL,Philippines,Asia
+361,479,559,They are good looking,Filipino,Men,Ranked second,2,0.16,PHL,Philippines,Asia
+362,479,559,They are good looking,Filipino,Men,Ranked third,3,0.15,PHL,Philippines,Asia
+363,479,559,They are good looking,Filipino,Men,Ranked fourth,4,0.17,PHL,Philippines,Asia
+364,479,559,They are good looking,Filipino,Men,Ranked fifth,5,0.2,PHL,Philippines,Asia
+365,479,559,They are good looking,Filipino,Men,Ranked sixth,6,0.12,PHL,Philippines,Asia
+366,479,559,They have a personality I like,Filipino,Men,Ranked first,1,0.39,PHL,Philippines,Asia
+367,479,559,They have a personality I like,Filipino,Men,Ranked second,2,0.25,PHL,Philippines,Asia
+368,479,559,They have a personality I like,Filipino,Men,Ranked third,3,0.17,PHL,Philippines,Asia
+369,479,559,They have a personality I like,Filipino,Men,Ranked fourth,4,0.1,PHL,Philippines,Asia
+370,479,559,They have a personality I like,Filipino,Men,Ranked fifth,5,0.06,PHL,Philippines,Asia
+371,479,559,They have a personality I like,Filipino,Men,Ranked sixth,6,0.03,PHL,Philippines,Asia
+372,479,559,They have a sense of humour,Filipino,Men,Ranked first,1,0.1,PHL,Philippines,Asia
+373,479,559,They have a sense of humour,Filipino,Men,Ranked second,2,0.21,PHL,Philippines,Asia
+374,479,559,They have a sense of humour,Filipino,Men,Ranked third,3,0.21,PHL,Philippines,Asia
+375,479,559,They have a sense of humour,Filipino,Men,Ranked fourth,4,0.22,PHL,Philippines,Asia
+376,479,559,They have a sense of humour,Filipino,Men,Ranked fifth,5,0.18,PHL,Philippines,Asia
+377,479,559,They have a sense of humour,Filipino,Men,Ranked sixth,6,0.08,PHL,Philippines,Asia
+378,479,559,They are intelligent,Filipino,Men,Ranked first,1,0.16,PHL,Philippines,Asia
+379,479,559,They are intelligent,Filipino,Men,Ranked second,2,0.2,PHL,Philippines,Asia
+380,479,559,They are intelligent,Filipino,Men,Ranked third,3,0.23,PHL,Philippines,Asia
+381,479,559,They are intelligent,Filipino,Men,Ranked fourth,4,0.23,PHL,Philippines,Asia
+382,479,559,They are intelligent,Filipino,Men,Ranked fifth,5,0.15,PHL,Philippines,Asia
+383,479,559,They are intelligent,Filipino,Men,Ranked sixth,6,0.03,PHL,Philippines,Asia
+384,479,559,They have a decent amount of money,Filipino,Men,Ranked first,1,0.02,PHL,Philippines,Asia
+385,479,559,They have a decent amount of money,Filipino,Men,Ranked second,2,0.03,PHL,Philippines,Asia
+386,479,559,They have a decent amount of money,Filipino,Men,Ranked third,3,0.07,PHL,Philippines,Asia
+387,479,559,They have a decent amount of money,Filipino,Men,Ranked fourth,4,0.09,PHL,Philippines,Asia
+388,479,559,They have a decent amount of money,Filipino,Men,Ranked fifth,5,0.18,PHL,Philippines,Asia
+389,479,559,They have a decent amount of money,Filipino,Men,Ranked sixth,6,0.61,PHL,Philippines,Asia
+390,479,559,They have similar interests to me,Filipino,Men,Ranked first,1,0.13,PHL,Philippines,Asia
+391,479,559,They have similar interests to me,Filipino,Men,Ranked second,2,0.16,PHL,Philippines,Asia
+392,479,559,They have similar interests to me,Filipino,Men,Ranked third,3,0.15,PHL,Philippines,Asia
+393,479,559,They have similar interests to me,Filipino,Men,Ranked fourth,4,0.19,PHL,Philippines,Asia
+394,479,559,They have similar interests to me,Filipino,Men,Ranked fifth,5,0.23,PHL,Philippines,Asia
+395,479,559,They have similar interests to me,Filipino,Men,Ranked sixth,6,0.13,PHL,Philippines,Asia
+396,618,538,They are good looking,Filipino,Women,Ranked first,1,0.08,PHL,Philippines,Asia
+397,618,538,They are good looking,Filipino,Women,Ranked second,2,0.09,PHL,Philippines,Asia
+398,618,538,They are good looking,Filipino,Women,Ranked third,3,0.11,PHL,Philippines,Asia
+399,618,538,They are good looking,Filipino,Women,Ranked fourth,4,0.13,PHL,Philippines,Asia
+400,618,538,They are good looking,Filipino,Women,Ranked fifth,5,0.26,PHL,Philippines,Asia
+401,618,538,They are good looking,Filipino,Women,Ranked sixth,6,0.33,PHL,Philippines,Asia
+402,618,538,They have a personality I like,Filipino,Women,Ranked first,1,0.41,PHL,Philippines,Asia
+403,618,538,They have a personality I like,Filipino,Women,Ranked second,2,0.19,PHL,Philippines,Asia
+404,618,538,They have a personality I like,Filipino,Women,Ranked third,3,0.19,PHL,Philippines,Asia
+405,618,538,They have a personality I like,Filipino,Women,Ranked fourth,4,0.1,PHL,Philippines,Asia
+406,618,538,They have a personality I like,Filipino,Women,Ranked fifth,5,0.07,PHL,Philippines,Asia
+407,618,538,They have a personality I like,Filipino,Women,Ranked sixth,6,0.03,PHL,Philippines,Asia
+408,618,538,They have a sense of humour,Filipino,Women,Ranked first,1,0.16,PHL,Philippines,Asia
+409,618,538,They have a sense of humour,Filipino,Women,Ranked second,2,0.26,PHL,Philippines,Asia
+410,618,538,They have a sense of humour,Filipino,Women,Ranked third,3,0.21,PHL,Philippines,Asia
+411,618,538,They have a sense of humour,Filipino,Women,Ranked fourth,4,0.16,PHL,Philippines,Asia
+412,618,538,They have a sense of humour,Filipino,Women,Ranked fifth,5,0.12,PHL,Philippines,Asia
+413,618,538,They have a sense of humour,Filipino,Women,Ranked sixth,6,0.09,PHL,Philippines,Asia
+414,618,538,They are intelligent,Filipino,Women,Ranked first,1,0.17,PHL,Philippines,Asia
+415,618,538,They are intelligent,Filipino,Women,Ranked second,2,0.17,PHL,Philippines,Asia
+416,618,538,They are intelligent,Filipino,Women,Ranked third,3,0.21,PHL,Philippines,Asia
+417,618,538,They are intelligent,Filipino,Women,Ranked fourth,4,0.24,PHL,Philippines,Asia
+418,618,538,They are intelligent,Filipino,Women,Ranked fifth,5,0.15,PHL,Philippines,Asia
+419,618,538,They are intelligent,Filipino,Women,Ranked sixth,6,0.07,PHL,Philippines,Asia
+420,618,538,They have a decent amount of money,Filipino,Women,Ranked first,1,0.04,PHL,Philippines,Asia
+421,618,538,They have a decent amount of money,Filipino,Women,Ranked second,2,0.09,PHL,Philippines,Asia
+422,618,538,They have a decent amount of money,Filipino,Women,Ranked third,3,0.12,PHL,Philippines,Asia
+423,618,538,They have a decent amount of money,Filipino,Women,Ranked fourth,4,0.15,PHL,Philippines,Asia
+424,618,538,They have a decent amount of money,Filipino,Women,Ranked fifth,5,0.24,PHL,Philippines,Asia
+425,618,538,They have a decent amount of money,Filipino,Women,Ranked sixth,6,0.36,PHL,Philippines,Asia
+426,618,538,They have similar interests to me,Filipino,Women,Ranked first,1,0.13,PHL,Philippines,Asia
+427,618,538,They have similar interests to me,Filipino,Women,Ranked second,2,0.19,PHL,Philippines,Asia
+428,618,538,They have similar interests to me,Filipino,Women,Ranked third,3,0.17,PHL,Philippines,Asia
+429,618,538,They have similar interests to me,Filipino,Women,Ranked fourth,4,0.21,PHL,Philippines,Asia
+430,618,538,They have similar interests to me,Filipino,Women,Ranked fifth,5,0.16,PHL,Philippines,Asia
+431,618,538,They have similar interests to me,Filipino,Women,Ranked sixth,6,0.13,PHL,Philippines,Asia
+432,502,503,They are good looking,Finnish,Men,Ranked first,1,0.16,FIN,Finland,Europe
+433,502,503,They are good looking,Finnish,Men,Ranked second,2,0.12,FIN,Finland,Europe
+434,502,503,They are good looking,Finnish,Men,Ranked third,3,0.19,FIN,Finland,Europe
+435,502,503,They are good looking,Finnish,Men,Ranked fourth,4,0.19,FIN,Finland,Europe
+436,502,503,They are good looking,Finnish,Men,Ranked fifth,5,0.29,FIN,Finland,Europe
+437,502,503,They are good looking,Finnish,Men,Ranked sixth,6,0.06,FIN,Finland,Europe
+438,502,503,They have a personality I like,Finnish,Men,Ranked first,1,0.55,FIN,Finland,Europe
+439,502,503,They have a personality I like,Finnish,Men,Ranked second,2,0.23,FIN,Finland,Europe
+440,502,503,They have a personality I like,Finnish,Men,Ranked third,3,0.1,FIN,Finland,Europe
+441,502,503,They have a personality I like,Finnish,Men,Ranked fourth,4,0.07,FIN,Finland,Europe
+442,502,503,They have a personality I like,Finnish,Men,Ranked fifth,5,0.03,FIN,Finland,Europe
+443,502,503,They have a personality I like,Finnish,Men,Ranked sixth,6,0.01,FIN,Finland,Europe
+444,502,503,They have a sense of humour,Finnish,Men,Ranked first,1,0.11,FIN,Finland,Europe
+445,502,503,They have a sense of humour,Finnish,Men,Ranked second,2,0.31,FIN,Finland,Europe
+446,502,503,They have a sense of humour,Finnish,Men,Ranked third,3,0.25,FIN,Finland,Europe
+447,502,503,They have a sense of humour,Finnish,Men,Ranked fourth,4,0.2,FIN,Finland,Europe
+448,502,503,They have a sense of humour,Finnish,Men,Ranked fifth,5,0.11,FIN,Finland,Europe
+449,502,503,They have a sense of humour,Finnish,Men,Ranked sixth,6,0.02,FIN,Finland,Europe
+450,502,503,They are intelligent,Finnish,Men,Ranked first,1,0.07,FIN,Finland,Europe
+451,502,503,They are intelligent,Finnish,Men,Ranked second,2,0.14,FIN,Finland,Europe
+452,502,503,They are intelligent,Finnish,Men,Ranked third,3,0.22,FIN,Finland,Europe
+453,502,503,They are intelligent,Finnish,Men,Ranked fourth,4,0.27,FIN,Finland,Europe
+454,502,503,They are intelligent,Finnish,Men,Ranked fifth,5,0.25,FIN,Finland,Europe
+455,502,503,They are intelligent,Finnish,Men,Ranked sixth,6,0.04,FIN,Finland,Europe
+456,502,503,They have a decent amount of money,Finnish,Men,Ranked first,1,0.01,FIN,Finland,Europe
+457,502,503,They have a decent amount of money,Finnish,Men,Ranked second,2,0.01,FIN,Finland,Europe
+458,502,503,They have a decent amount of money,Finnish,Men,Ranked third,3,0.03,FIN,Finland,Europe
+459,502,503,They have a decent amount of money,Finnish,Men,Ranked fourth,4,0.03,FIN,Finland,Europe
+460,502,503,They have a decent amount of money,Finnish,Men,Ranked fifth,5,0.12,FIN,Finland,Europe
+461,502,503,They have a decent amount of money,Finnish,Men,Ranked sixth,6,0.8,FIN,Finland,Europe
+462,502,503,They have similar interests to me,Finnish,Men,Ranked first,1,0.1,FIN,Finland,Europe
+463,502,503,They have similar interests to me,Finnish,Men,Ranked second,2,0.19,FIN,Finland,Europe
+464,502,503,They have similar interests to me,Finnish,Men,Ranked third,3,0.2,FIN,Finland,Europe
+465,502,503,They have similar interests to me,Finnish,Men,Ranked fourth,4,0.24,FIN,Finland,Europe
+466,502,503,They have similar interests to me,Finnish,Men,Ranked fifth,5,0.2,FIN,Finland,Europe
+467,502,503,They have similar interests to me,Finnish,Men,Ranked sixth,6,0.07,FIN,Finland,Europe
+468,503,502,They are good looking,Finnish,Women,Ranked first,1,0.05,FIN,Finland,Europe
+469,503,502,They are good looking,Finnish,Women,Ranked second,2,0.05,FIN,Finland,Europe
+470,503,502,They are good looking,Finnish,Women,Ranked third,3,0.09,FIN,Finland,Europe
+471,503,502,They are good looking,Finnish,Women,Ranked fourth,4,0.16,FIN,Finland,Europe
+472,503,502,They are good looking,Finnish,Women,Ranked fifth,5,0.4,FIN,Finland,Europe
+473,503,502,They are good looking,Finnish,Women,Ranked sixth,6,0.26,FIN,Finland,Europe
+474,503,502,They have a personality I like,Finnish,Women,Ranked first,1,0.59,FIN,Finland,Europe
+475,503,502,They have a personality I like,Finnish,Women,Ranked second,2,0.24,FIN,Finland,Europe
+476,503,502,They have a personality I like,Finnish,Women,Ranked third,3,0.12,FIN,Finland,Europe
+477,503,502,They have a personality I like,Finnish,Women,Ranked fourth,4,0.03,FIN,Finland,Europe
+478,503,502,They have a personality I like,Finnish,Women,Ranked fifth,5,0.01,FIN,Finland,Europe
+479,503,502,They have a personality I like,Finnish,Women,Ranked sixth,6,0.01,FIN,Finland,Europe
+480,503,502,They have a sense of humour,Finnish,Women,Ranked first,1,0.14,FIN,Finland,Europe
+481,503,502,They have a sense of humour,Finnish,Women,Ranked second,2,0.32,FIN,Finland,Europe
+482,503,502,They have a sense of humour,Finnish,Women,Ranked third,3,0.28,FIN,Finland,Europe
+483,503,502,They have a sense of humour,Finnish,Women,Ranked fourth,4,0.18,FIN,Finland,Europe
+484,503,502,They have a sense of humour,Finnish,Women,Ranked fifth,5,0.06,FIN,Finland,Europe
+485,503,502,They have a sense of humour,Finnish,Women,Ranked sixth,6,0.03,FIN,Finland,Europe
+486,503,502,They are intelligent,Finnish,Women,Ranked first,1,0.07,FIN,Finland,Europe
+487,503,502,They are intelligent,Finnish,Women,Ranked second,2,0.14,FIN,Finland,Europe
+488,503,502,They are intelligent,Finnish,Women,Ranked third,3,0.24,FIN,Finland,Europe
+489,503,502,They are intelligent,Finnish,Women,Ranked fourth,4,0.34,FIN,Finland,Europe
+490,503,502,They are intelligent,Finnish,Women,Ranked fifth,5,0.17,FIN,Finland,Europe
+491,503,502,They are intelligent,Finnish,Women,Ranked sixth,6,0.03,FIN,Finland,Europe
+492,503,502,They have a decent amount of money,Finnish,Women,Ranked first,1,0.01,FIN,Finland,Europe
+493,503,502,They have a decent amount of money,Finnish,Women,Ranked second,2,0.02,FIN,Finland,Europe
+494,503,502,They have a decent amount of money,Finnish,Women,Ranked third,3,0.03,FIN,Finland,Europe
+495,503,502,They have a decent amount of money,Finnish,Women,Ranked fourth,4,0.08,FIN,Finland,Europe
+496,503,502,They have a decent amount of money,Finnish,Women,Ranked fifth,5,0.24,FIN,Finland,Europe
+497,503,502,They have a decent amount of money,Finnish,Women,Ranked sixth,6,0.62,FIN,Finland,Europe
+498,503,502,They have similar interests to me,Finnish,Women,Ranked first,1,0.15,FIN,Finland,Europe
+499,503,502,They have similar interests to me,Finnish,Women,Ranked second,2,0.23,FIN,Finland,Europe
+500,503,502,They have similar interests to me,Finnish,Women,Ranked third,3,0.24,FIN,Finland,Europe
+501,503,502,They have similar interests to me,Finnish,Women,Ranked fourth,4,0.21,FIN,Finland,Europe
+502,503,502,They have similar interests to me,Finnish,Women,Ranked fifth,5,0.11,FIN,Finland,Europe
+503,503,502,They have similar interests to me,Finnish,Women,Ranked sixth,6,0.05,FIN,Finland,Europe
+504,447,485,They are good looking,French,Men,Ranked first,1,0.24,FRA,France,Europe
+505,447,485,They are good looking,French,Men,Ranked second,2,0.16,FRA,France,Europe
+506,447,485,They are good looking,French,Men,Ranked third,3,0.19,FRA,France,Europe
+507,447,485,They are good looking,French,Men,Ranked fourth,4,0.17,FRA,France,Europe
+508,447,485,They are good looking,French,Men,Ranked fifth,5,0.2,FRA,France,Europe
+509,447,485,They are good looking,French,Men,Ranked sixth,6,0.05,FRA,France,Europe
+510,447,485,They have a personality I like,French,Men,Ranked first,1,0.39,FRA,France,Europe
+511,447,485,They have a personality I like,French,Men,Ranked second,2,0.27,FRA,France,Europe
+512,447,485,They have a personality I like,French,Men,Ranked third,3,0.13,FRA,France,Europe
+513,447,485,They have a personality I like,French,Men,Ranked fourth,4,0.09,FRA,France,Europe
+514,447,485,They have a personality I like,French,Men,Ranked fifth,5,0.07,FRA,France,Europe
+515,447,485,They have a personality I like,French,Men,Ranked sixth,6,0.04,FRA,France,Europe
+516,447,485,They have a sense of humour,French,Men,Ranked first,1,0.12,FRA,France,Europe
+517,447,485,They have a sense of humour,French,Men,Ranked second,2,0.17,FRA,France,Europe
+518,447,485,They have a sense of humour,French,Men,Ranked third,3,0.23,FRA,France,Europe
+519,447,485,They have a sense of humour,French,Men,Ranked fourth,4,0.25,FRA,France,Europe
+520,447,485,They have a sense of humour,French,Men,Ranked fifth,5,0.16,FRA,France,Europe
+521,447,485,They have a sense of humour,French,Men,Ranked sixth,6,0.06,FRA,France,Europe
+522,447,485,They are intelligent,French,Men,Ranked first,1,0.09,FRA,France,Europe
+523,447,485,They are intelligent,French,Men,Ranked second,2,0.19,FRA,France,Europe
+524,447,485,They are intelligent,French,Men,Ranked third,3,0.24,FRA,France,Europe
+525,447,485,They are intelligent,French,Men,Ranked fourth,4,0.22,FRA,France,Europe
+526,447,485,They are intelligent,French,Men,Ranked fifth,5,0.22,FRA,France,Europe
+527,447,485,They are intelligent,French,Men,Ranked sixth,6,0.05,FRA,France,Europe
+528,447,485,They have a decent amount of money,French,Men,Ranked first,1,0.01,FRA,France,Europe
+529,447,485,They have a decent amount of money,French,Men,Ranked second,2,0.03,FRA,France,Europe
+530,447,485,They have a decent amount of money,French,Men,Ranked third,3,0.04,FRA,France,Europe
+531,447,485,They have a decent amount of money,French,Men,Ranked fourth,4,0.06,FRA,France,Europe
+532,447,485,They have a decent amount of money,French,Men,Ranked fifth,5,0.09,FRA,France,Europe
+533,447,485,They have a decent amount of money,French,Men,Ranked sixth,6,0.77,FRA,France,Europe
+534,447,485,They have similar interests to me,French,Men,Ranked first,1,0.16,FRA,France,Europe
+535,447,485,They have similar interests to me,French,Men,Ranked second,2,0.17,FRA,France,Europe
+536,447,485,They have similar interests to me,French,Men,Ranked third,3,0.17,FRA,France,Europe
+537,447,485,They have similar interests to me,French,Men,Ranked fourth,4,0.21,FRA,France,Europe
+538,447,485,They have similar interests to me,French,Men,Ranked fifth,5,0.26,FRA,France,Europe
+539,447,485,They have similar interests to me,French,Men,Ranked sixth,6,0.04,FRA,France,Europe
+540,568,530,They are good looking,French,Women,Ranked first,1,0.11,FRA,France,Europe
+541,568,530,They are good looking,French,Women,Ranked second,2,0.09,FRA,France,Europe
+542,568,530,They are good looking,French,Women,Ranked third,3,0.11,FRA,France,Europe
+543,568,530,They are good looking,French,Women,Ranked fourth,4,0.17,FRA,France,Europe
+544,568,530,They are good looking,French,Women,Ranked fifth,5,0.35,FRA,France,Europe
+545,568,530,They are good looking,French,Women,Ranked sixth,6,0.17,FRA,France,Europe
+546,568,530,They have a personality I like,French,Women,Ranked first,1,0.42,FRA,France,Europe
+547,568,530,They have a personality I like,French,Women,Ranked second,2,0.26,FRA,France,Europe
+548,568,530,They have a personality I like,French,Women,Ranked third,3,0.17,FRA,France,Europe
+549,568,530,They have a personality I like,French,Women,Ranked fourth,4,0.1,FRA,France,Europe
+550,568,530,They have a personality I like,French,Women,Ranked fifth,5,0.04,FRA,France,Europe
+551,568,530,They have a personality I like,French,Women,Ranked sixth,6,0.02,FRA,France,Europe
+552,568,530,They have a sense of humour,French,Women,Ranked first,1,0.17,FRA,France,Europe
+553,568,530,They have a sense of humour,French,Women,Ranked second,2,0.22,FRA,France,Europe
+554,568,530,They have a sense of humour,French,Women,Ranked third,3,0.3,FRA,France,Europe
+555,568,530,They have a sense of humour,French,Women,Ranked fourth,4,0.17,FRA,France,Europe
+556,568,530,They have a sense of humour,French,Women,Ranked fifth,5,0.1,FRA,France,Europe
+557,568,530,They have a sense of humour,French,Women,Ranked sixth,6,0.04,FRA,France,Europe
+558,568,530,They are intelligent,French,Women,Ranked first,1,0.09,FRA,France,Europe
+559,568,530,They are intelligent,French,Women,Ranked second,2,0.18,FRA,France,Europe
+560,568,530,They are intelligent,French,Women,Ranked third,3,0.2,FRA,France,Europe
+561,568,530,They are intelligent,French,Women,Ranked fourth,4,0.32,FRA,France,Europe
+562,568,530,They are intelligent,French,Women,Ranked fifth,5,0.18,FRA,France,Europe
+563,568,530,They are intelligent,French,Women,Ranked sixth,6,0.03,FRA,France,Europe
+564,568,530,They have a decent amount of money,French,Women,Ranked first,1,0.01,FRA,France,Europe
+565,568,530,They have a decent amount of money,French,Women,Ranked second,2,0.01,FRA,France,Europe
+566,568,530,They have a decent amount of money,French,Women,Ranked third,3,0.04,FRA,France,Europe
+567,568,530,They have a decent amount of money,French,Women,Ranked fourth,4,0.05,FRA,France,Europe
+568,568,530,They have a decent amount of money,French,Women,Ranked fifth,5,0.19,FRA,France,Europe
+569,568,530,They have a decent amount of money,French,Women,Ranked sixth,6,0.7,FRA,France,Europe
+570,568,530,They have similar interests to me,French,Women,Ranked first,1,0.19,FRA,France,Europe
+571,568,530,They have similar interests to me,French,Women,Ranked second,2,0.24,FRA,France,Europe
+572,568,530,They have similar interests to me,French,Women,Ranked third,3,0.19,FRA,France,Europe
+573,568,530,They have similar interests to me,French,Women,Ranked fourth,4,0.19,FRA,France,Europe
+574,568,530,They have similar interests to me,French,Women,Ranked fifth,5,0.14,FRA,France,Europe
+575,568,530,They have similar interests to me,French,Women,Ranked sixth,6,0.05,FRA,France,Europe
+576,972,992,They are good looking,German,Men,Ranked first,1,0.17,DEU,Germany,Europe
+577,972,992,They are good looking,German,Men,Ranked second,2,0.17,DEU,Germany,Europe
+578,972,992,They are good looking,German,Men,Ranked third,3,0.14,DEU,Germany,Europe
+579,972,992,They are good looking,German,Men,Ranked fourth,4,0.16,DEU,Germany,Europe
+580,972,992,They are good looking,German,Men,Ranked fifth,5,0.26,DEU,Germany,Europe
+581,972,992,They are good looking,German,Men,Ranked sixth,6,0.1,DEU,Germany,Europe
+582,972,992,They have a personality I like,German,Men,Ranked first,1,0.51,DEU,Germany,Europe
+583,972,992,They have a personality I like,German,Men,Ranked second,2,0.19,DEU,Germany,Europe
+584,972,992,They have a personality I like,German,Men,Ranked third,3,0.13,DEU,Germany,Europe
+585,972,992,They have a personality I like,German,Men,Ranked fourth,4,0.09,DEU,Germany,Europe
+586,972,992,They have a personality I like,German,Men,Ranked fifth,5,0.06,DEU,Germany,Europe
+587,972,992,They have a personality I like,German,Men,Ranked sixth,6,0.03,DEU,Germany,Europe
+588,972,992,They have a sense of humour,German,Men,Ranked first,1,0.11,DEU,Germany,Europe
+589,972,992,They have a sense of humour,German,Men,Ranked second,2,0.25,DEU,Germany,Europe
+590,972,992,They have a sense of humour,German,Men,Ranked third,3,0.27,DEU,Germany,Europe
+591,972,992,They have a sense of humour,German,Men,Ranked fourth,4,0.2,DEU,Germany,Europe
+592,972,992,They have a sense of humour,German,Men,Ranked fifth,5,0.13,DEU,Germany,Europe
+593,972,992,They have a sense of humour,German,Men,Ranked sixth,6,0.04,DEU,Germany,Europe
+594,972,992,They are intelligent,German,Men,Ranked first,1,0.08,DEU,Germany,Europe
+595,972,992,They are intelligent,German,Men,Ranked second,2,0.17,DEU,Germany,Europe
+596,972,992,They are intelligent,German,Men,Ranked third,3,0.24,DEU,Germany,Europe
+597,972,992,They are intelligent,German,Men,Ranked fourth,4,0.26,DEU,Germany,Europe
+598,972,992,They are intelligent,German,Men,Ranked fifth,5,0.2,DEU,Germany,Europe
+599,972,992,They are intelligent,German,Men,Ranked sixth,6,0.05,DEU,Germany,Europe
+600,972,992,They have a decent amount of money,German,Men,Ranked first,1,0.02,DEU,Germany,Europe
+601,972,992,They have a decent amount of money,German,Men,Ranked second,2,0.03,DEU,Germany,Europe
+602,972,992,They have a decent amount of money,German,Men,Ranked third,3,0.04,DEU,Germany,Europe
+603,972,992,They have a decent amount of money,German,Men,Ranked fourth,4,0.06,DEU,Germany,Europe
+604,972,992,They have a decent amount of money,German,Men,Ranked fifth,5,0.15,DEU,Germany,Europe
+605,972,992,They have a decent amount of money,German,Men,Ranked sixth,6,0.7,DEU,Germany,Europe
+606,972,992,They have similar interests to me,German,Men,Ranked first,1,0.12,DEU,Germany,Europe
+607,972,992,They have similar interests to me,German,Men,Ranked second,2,0.18,DEU,Germany,Europe
+608,972,992,They have similar interests to me,German,Men,Ranked third,3,0.18,DEU,Germany,Europe
+609,972,992,They have similar interests to me,German,Men,Ranked fourth,4,0.23,DEU,Germany,Europe
+610,972,992,They have similar interests to me,German,Men,Ranked fifth,5,0.21,DEU,Germany,Europe
+611,972,992,They have similar interests to me,German,Men,Ranked sixth,6,0.08,DEU,Germany,Europe
+612,1068,1048,They are good looking,German,Women,Ranked first,1,0.07,DEU,Germany,Europe
+613,1068,1048,They are good looking,German,Women,Ranked second,2,0.07,DEU,Germany,Europe
+614,1068,1048,They are good looking,German,Women,Ranked third,3,0.09,DEU,Germany,Europe
+615,1068,1048,They are good looking,German,Women,Ranked fourth,4,0.17,DEU,Germany,Europe
+616,1068,1048,They are good looking,German,Women,Ranked fifth,5,0.35,DEU,Germany,Europe
+617,1068,1048,They are good looking,German,Women,Ranked sixth,6,0.24,DEU,Germany,Europe
+618,1068,1048,They have a personality I like,German,Women,Ranked first,1,0.56,DEU,Germany,Europe
+619,1068,1048,They have a personality I like,German,Women,Ranked second,2,0.21,DEU,Germany,Europe
+620,1068,1048,They have a personality I like,German,Women,Ranked third,3,0.11,DEU,Germany,Europe
+621,1068,1048,They have a personality I like,German,Women,Ranked fourth,4,0.07,DEU,Germany,Europe
+622,1068,1048,They have a personality I like,German,Women,Ranked fifth,5,0.04,DEU,Germany,Europe
+623,1068,1048,They have a personality I like,German,Women,Ranked sixth,6,0.02,DEU,Germany,Europe
+624,1068,1048,They have a sense of humour,German,Women,Ranked first,1,0.17,DEU,Germany,Europe
+625,1068,1048,They have a sense of humour,German,Women,Ranked second,2,0.32,DEU,Germany,Europe
+626,1068,1048,They have a sense of humour,German,Women,Ranked third,3,0.26,DEU,Germany,Europe
+627,1068,1048,They have a sense of humour,German,Women,Ranked fourth,4,0.13,DEU,Germany,Europe
+628,1068,1048,They have a sense of humour,German,Women,Ranked fifth,5,0.08,DEU,Germany,Europe
+629,1068,1048,They have a sense of humour,German,Women,Ranked sixth,6,0.05,DEU,Germany,Europe
+630,1068,1048,They are intelligent,German,Women,Ranked first,1,0.07,DEU,Germany,Europe
+631,1068,1048,They are intelligent,German,Women,Ranked second,2,0.19,DEU,Germany,Europe
+632,1068,1048,They are intelligent,German,Women,Ranked third,3,0.23,DEU,Germany,Europe
+633,1068,1048,They are intelligent,German,Women,Ranked fourth,4,0.31,DEU,Germany,Europe
+634,1068,1048,They are intelligent,German,Women,Ranked fifth,5,0.14,DEU,Germany,Europe
+635,1068,1048,They are intelligent,German,Women,Ranked sixth,6,0.05,DEU,Germany,Europe
+636,1068,1048,They have a decent amount of money,German,Women,Ranked first,1,0.01,DEU,Germany,Europe
+637,1068,1048,They have a decent amount of money,German,Women,Ranked second,2,0.03,DEU,Germany,Europe
+638,1068,1048,They have a decent amount of money,German,Women,Ranked third,3,0.07,DEU,Germany,Europe
+639,1068,1048,They have a decent amount of money,German,Women,Ranked fourth,4,0.1,DEU,Germany,Europe
+640,1068,1048,They have a decent amount of money,German,Women,Ranked fifth,5,0.25,DEU,Germany,Europe
+641,1068,1048,They have a decent amount of money,German,Women,Ranked sixth,6,0.55,DEU,Germany,Europe
+642,1068,1048,They have similar interests to me,German,Women,Ranked first,1,0.13,DEU,Germany,Europe
+643,1068,1048,They have similar interests to me,German,Women,Ranked second,2,0.19,DEU,Germany,Europe
+644,1068,1048,They have similar interests to me,German,Women,Ranked third,3,0.24,DEU,Germany,Europe
+645,1068,1048,They have similar interests to me,German,Women,Ranked fourth,4,0.22,DEU,Germany,Europe
+646,1068,1048,They have similar interests to me,German,Women,Ranked fifth,5,0.14,DEU,Germany,Europe
+647,1068,1048,They have similar interests to me,German,Women,Ranked sixth,6,0.09,DEU,Germany,Europe
+648,489,538,They are good looking,Hong Kong,Men,Ranked first,1,0.33,HKG,"Hong Kong, China",Asia
+649,489,538,They are good looking,Hong Kong,Men,Ranked second,2,0.21,HKG,"Hong Kong, China",Asia
+650,489,538,They are good looking,Hong Kong,Men,Ranked third,3,0.17,HKG,"Hong Kong, China",Asia
+651,489,538,They are good looking,Hong Kong,Men,Ranked fourth,4,0.14,HKG,"Hong Kong, China",Asia
+652,489,538,They are good looking,Hong Kong,Men,Ranked fifth,5,0.08,HKG,"Hong Kong, China",Asia
+653,489,538,They are good looking,Hong Kong,Men,Ranked sixth,6,0.07,HKG,"Hong Kong, China",Asia
+654,489,538,They have a personality I like,Hong Kong,Men,Ranked first,1,0.45,HKG,"Hong Kong, China",Asia
+655,489,538,They have a personality I like,Hong Kong,Men,Ranked second,2,0.26,HKG,"Hong Kong, China",Asia
+656,489,538,They have a personality I like,Hong Kong,Men,Ranked third,3,0.12,HKG,"Hong Kong, China",Asia
+657,489,538,They have a personality I like,Hong Kong,Men,Ranked fourth,4,0.07,HKG,"Hong Kong, China",Asia
+658,489,538,They have a personality I like,Hong Kong,Men,Ranked fifth,5,0.06,HKG,"Hong Kong, China",Asia
+659,489,538,They have a personality I like,Hong Kong,Men,Ranked sixth,6,0.04,HKG,"Hong Kong, China",Asia
+660,489,538,They have a sense of humour,Hong Kong,Men,Ranked first,1,0.06,HKG,"Hong Kong, China",Asia
+661,489,538,They have a sense of humour,Hong Kong,Men,Ranked second,2,0.14,HKG,"Hong Kong, China",Asia
+662,489,538,They have a sense of humour,Hong Kong,Men,Ranked third,3,0.21,HKG,"Hong Kong, China",Asia
+663,489,538,They have a sense of humour,Hong Kong,Men,Ranked fourth,4,0.23,HKG,"Hong Kong, China",Asia
+664,489,538,They have a sense of humour,Hong Kong,Men,Ranked fifth,5,0.25,HKG,"Hong Kong, China",Asia
+665,489,538,They have a sense of humour,Hong Kong,Men,Ranked sixth,6,0.11,HKG,"Hong Kong, China",Asia
+666,489,538,They are intelligent,Hong Kong,Men,Ranked first,1,0.06,HKG,"Hong Kong, China",Asia
+667,489,538,They are intelligent,Hong Kong,Men,Ranked second,2,0.13,HKG,"Hong Kong, China",Asia
+668,489,538,They are intelligent,Hong Kong,Men,Ranked third,3,0.2,HKG,"Hong Kong, China",Asia
+669,489,538,They are intelligent,Hong Kong,Men,Ranked fourth,4,0.26,HKG,"Hong Kong, China",Asia
+670,489,538,They are intelligent,Hong Kong,Men,Ranked fifth,5,0.24,HKG,"Hong Kong, China",Asia
+671,489,538,They are intelligent,Hong Kong,Men,Ranked sixth,6,0.12,HKG,"Hong Kong, China",Asia
+672,489,538,They have a decent amount of money,Hong Kong,Men,Ranked first,1,0.03,HKG,"Hong Kong, China",Asia
+673,489,538,They have a decent amount of money,Hong Kong,Men,Ranked second,2,0.05,HKG,"Hong Kong, China",Asia
+674,489,538,They have a decent amount of money,Hong Kong,Men,Ranked third,3,0.08,HKG,"Hong Kong, China",Asia
+675,489,538,They have a decent amount of money,Hong Kong,Men,Ranked fourth,4,0.1,HKG,"Hong Kong, China",Asia
+676,489,538,They have a decent amount of money,Hong Kong,Men,Ranked fifth,5,0.18,HKG,"Hong Kong, China",Asia
+677,489,538,They have a decent amount of money,Hong Kong,Men,Ranked sixth,6,0.56,HKG,"Hong Kong, China",Asia
+678,489,538,They have similar interests to me,Hong Kong,Men,Ranked first,1,0.07,HKG,"Hong Kong, China",Asia
+679,489,538,They have similar interests to me,Hong Kong,Men,Ranked second,2,0.22,HKG,"Hong Kong, China",Asia
+680,489,538,They have similar interests to me,Hong Kong,Men,Ranked third,3,0.22,HKG,"Hong Kong, China",Asia
+681,489,538,They have similar interests to me,Hong Kong,Men,Ranked fourth,4,0.2,HKG,"Hong Kong, China",Asia
+682,489,538,They have similar interests to me,Hong Kong,Men,Ranked fifth,5,0.19,HKG,"Hong Kong, China",Asia
+683,489,538,They have similar interests to me,Hong Kong,Men,Ranked sixth,6,0.11,HKG,"Hong Kong, China",Asia
+684,631,582,They are good looking,Hong Kong,Women,Ranked first,1,0.19,HKG,"Hong Kong, China",Asia
+685,631,582,They are good looking,Hong Kong,Women,Ranked second,2,0.11,HKG,"Hong Kong, China",Asia
+686,631,582,They are good looking,Hong Kong,Women,Ranked third,3,0.17,HKG,"Hong Kong, China",Asia
+687,631,582,They are good looking,Hong Kong,Women,Ranked fourth,4,0.17,HKG,"Hong Kong, China",Asia
+688,631,582,They are good looking,Hong Kong,Women,Ranked fifth,5,0.21,HKG,"Hong Kong, China",Asia
+689,631,582,They are good looking,Hong Kong,Women,Ranked sixth,6,0.17,HKG,"Hong Kong, China",Asia
+690,631,582,They have a personality I like,Hong Kong,Women,Ranked first,1,0.53,HKG,"Hong Kong, China",Asia
+691,631,582,They have a personality I like,Hong Kong,Women,Ranked second,2,0.23,HKG,"Hong Kong, China",Asia
+692,631,582,They have a personality I like,Hong Kong,Women,Ranked third,3,0.1,HKG,"Hong Kong, China",Asia
+693,631,582,They have a personality I like,Hong Kong,Women,Ranked fourth,4,0.06,HKG,"Hong Kong, China",Asia
+694,631,582,They have a personality I like,Hong Kong,Women,Ranked fifth,5,0.04,HKG,"Hong Kong, China",Asia
+695,631,582,They have a personality I like,Hong Kong,Women,Ranked sixth,6,0.04,HKG,"Hong Kong, China",Asia
+696,631,582,They have a sense of humour,Hong Kong,Women,Ranked first,1,0.09,HKG,"Hong Kong, China",Asia
+697,631,582,They have a sense of humour,Hong Kong,Women,Ranked second,2,0.22,HKG,"Hong Kong, China",Asia
+698,631,582,They have a sense of humour,Hong Kong,Women,Ranked third,3,0.25,HKG,"Hong Kong, China",Asia
+699,631,582,They have a sense of humour,Hong Kong,Women,Ranked fourth,4,0.19,HKG,"Hong Kong, China",Asia
+700,631,582,They have a sense of humour,Hong Kong,Women,Ranked fifth,5,0.16,HKG,"Hong Kong, China",Asia
+701,631,582,They have a sense of humour,Hong Kong,Women,Ranked sixth,6,0.09,HKG,"Hong Kong, China",Asia
+702,631,582,They are intelligent,Hong Kong,Women,Ranked first,1,0.08,HKG,"Hong Kong, China",Asia
+703,631,582,They are intelligent,Hong Kong,Women,Ranked second,2,0.14,HKG,"Hong Kong, China",Asia
+704,631,582,They are intelligent,Hong Kong,Women,Ranked third,3,0.19,HKG,"Hong Kong, China",Asia
+705,631,582,They are intelligent,Hong Kong,Women,Ranked fourth,4,0.27,HKG,"Hong Kong, China",Asia
+706,631,582,They are intelligent,Hong Kong,Women,Ranked fifth,5,0.19,HKG,"Hong Kong, China",Asia
+707,631,582,They are intelligent,Hong Kong,Women,Ranked sixth,6,0.12,HKG,"Hong Kong, China",Asia
+708,631,582,They have a decent amount of money,Hong Kong,Women,Ranked first,1,0.03,HKG,"Hong Kong, China",Asia
+709,631,582,They have a decent amount of money,Hong Kong,Women,Ranked second,2,0.05,HKG,"Hong Kong, China",Asia
+710,631,582,They have a decent amount of money,Hong Kong,Women,Ranked third,3,0.09,HKG,"Hong Kong, China",Asia
+711,631,582,They have a decent amount of money,Hong Kong,Women,Ranked fourth,4,0.15,HKG,"Hong Kong, China",Asia
+712,631,582,They have a decent amount of money,Hong Kong,Women,Ranked fifth,5,0.26,HKG,"Hong Kong, China",Asia
+713,631,582,They have a decent amount of money,Hong Kong,Women,Ranked sixth,6,0.42,HKG,"Hong Kong, China",Asia
+714,631,582,They have similar interests to me,Hong Kong,Women,Ranked first,1,0.09,HKG,"Hong Kong, China",Asia
+715,631,582,They have similar interests to me,Hong Kong,Women,Ranked second,2,0.25,HKG,"Hong Kong, China",Asia
+716,631,582,They have similar interests to me,Hong Kong,Women,Ranked third,3,0.2,HKG,"Hong Kong, China",Asia
+717,631,582,They have similar interests to me,Hong Kong,Women,Ranked fourth,4,0.16,HKG,"Hong Kong, China",Asia
+718,631,582,They have similar interests to me,Hong Kong,Women,Ranked fifth,5,0.14,HKG,"Hong Kong, China",Asia
+719,631,582,They have similar interests to me,Hong Kong,Women,Ranked sixth,6,0.16,HKG,"Hong Kong, China",Asia
+720,519,518,They are good looking,Indian,Men,Ranked first,1,0.17,IND,India,Asia
+721,519,518,They are good looking,Indian,Men,Ranked second,2,0.16,IND,India,Asia
+722,519,518,They are good looking,Indian,Men,Ranked third,3,0.17,IND,India,Asia
+723,519,518,They are good looking,Indian,Men,Ranked fourth,4,0.15,IND,India,Asia
+724,519,518,They are good looking,Indian,Men,Ranked fifth,5,0.25,IND,India,Asia
+725,519,518,They are good looking,Indian,Men,Ranked sixth,6,0.1,IND,India,Asia
+726,519,518,They have a personality I like,Indian,Men,Ranked first,1,0.22,IND,India,Asia
+727,519,518,They have a personality I like,Indian,Men,Ranked second,2,0.19,IND,India,Asia
+728,519,518,They have a personality I like,Indian,Men,Ranked third,3,0.21,IND,India,Asia
+729,519,518,They have a personality I like,Indian,Men,Ranked fourth,4,0.18,IND,India,Asia
+730,519,518,They have a personality I like,Indian,Men,Ranked fifth,5,0.13,IND,India,Asia
+731,519,518,They have a personality I like,Indian,Men,Ranked sixth,6,0.08,IND,India,Asia
+732,519,518,They have a sense of humour,Indian,Men,Ranked first,1,0.19,IND,India,Asia
+733,519,518,They have a sense of humour,Indian,Men,Ranked second,2,0.19,IND,India,Asia
+734,519,518,They have a sense of humour,Indian,Men,Ranked third,3,0.2,IND,India,Asia
+735,519,518,They have a sense of humour,Indian,Men,Ranked fourth,4,0.16,IND,India,Asia
+736,519,518,They have a sense of humour,Indian,Men,Ranked fifth,5,0.18,IND,India,Asia
+737,519,518,They have a sense of humour,Indian,Men,Ranked sixth,6,0.07,IND,India,Asia
+738,519,518,They are intelligent,Indian,Men,Ranked first,1,0.15,IND,India,Asia
+739,519,518,They are intelligent,Indian,Men,Ranked second,2,0.22,IND,India,Asia
+740,519,518,They are intelligent,Indian,Men,Ranked third,3,0.2,IND,India,Asia
+741,519,518,They are intelligent,Indian,Men,Ranked fourth,4,0.22,IND,India,Asia
+742,519,518,They are intelligent,Indian,Men,Ranked fifth,5,0.13,IND,India,Asia
+743,519,518,They are intelligent,Indian,Men,Ranked sixth,6,0.07,IND,India,Asia
+744,519,518,They have a decent amount of money,Indian,Men,Ranked first,1,0.03,IND,India,Asia
+745,519,518,They have a decent amount of money,Indian,Men,Ranked second,2,0.03,IND,India,Asia
+746,519,518,They have a decent amount of money,Indian,Men,Ranked third,3,0.07,IND,India,Asia
+747,519,518,They have a decent amount of money,Indian,Men,Ranked fourth,4,0.09,IND,India,Asia
+748,519,518,They have a decent amount of money,Indian,Men,Ranked fifth,5,0.16,IND,India,Asia
+749,519,518,They have a decent amount of money,Indian,Men,Ranked sixth,6,0.62,IND,India,Asia
+750,519,518,They have similar interests to me,Indian,Men,Ranked first,1,0.23,IND,India,Asia
+751,519,518,They have similar interests to me,Indian,Men,Ranked second,2,0.2,IND,India,Asia
+752,519,518,They have similar interests to me,Indian,Men,Ranked third,3,0.16,IND,India,Asia
+753,519,518,They have similar interests to me,Indian,Men,Ranked fourth,4,0.2,IND,India,Asia
+754,519,518,They have similar interests to me,Indian,Men,Ranked fifth,5,0.15,IND,India,Asia
+755,519,518,They have similar interests to me,Indian,Men,Ranked sixth,6,0.06,IND,India,Asia
+756,496,497,They are good looking,Indian,Women,Ranked first,1,0.06,IND,India,Asia
+757,496,497,They are good looking,Indian,Women,Ranked second,2,0.11,IND,India,Asia
+758,496,497,They are good looking,Indian,Women,Ranked third,3,0.12,IND,India,Asia
+759,496,497,They are good looking,Indian,Women,Ranked fourth,4,0.16,IND,India,Asia
+760,496,497,They are good looking,Indian,Women,Ranked fifth,5,0.27,IND,India,Asia
+761,496,497,They are good looking,Indian,Women,Ranked sixth,6,0.28,IND,India,Asia
+762,496,497,They have a personality I like,Indian,Women,Ranked first,1,0.28,IND,India,Asia
+763,496,497,They have a personality I like,Indian,Women,Ranked second,2,0.18,IND,India,Asia
+764,496,497,They have a personality I like,Indian,Women,Ranked third,3,0.18,IND,India,Asia
+765,496,497,They have a personality I like,Indian,Women,Ranked fourth,4,0.17,IND,India,Asia
+766,496,497,They have a personality I like,Indian,Women,Ranked fifth,5,0.12,IND,India,Asia
+767,496,497,They have a personality I like,Indian,Women,Ranked sixth,6,0.06,IND,India,Asia
+768,496,497,They have a sense of humour,Indian,Women,Ranked first,1,0.19,IND,India,Asia
+769,496,497,They have a sense of humour,Indian,Women,Ranked second,2,0.22,IND,India,Asia
+770,496,497,They have a sense of humour,Indian,Women,Ranked third,3,0.2,IND,India,Asia
+771,496,497,They have a sense of humour,Indian,Women,Ranked fourth,4,0.16,IND,India,Asia
+772,496,497,They have a sense of humour,Indian,Women,Ranked fifth,5,0.14,IND,India,Asia
+773,496,497,They have a sense of humour,Indian,Women,Ranked sixth,6,0.1,IND,India,Asia
+774,496,497,They are intelligent,Indian,Women,Ranked first,1,0.22,IND,India,Asia
+775,496,497,They are intelligent,Indian,Women,Ranked second,2,0.23,IND,India,Asia
+776,496,497,They are intelligent,Indian,Women,Ranked third,3,0.23,IND,India,Asia
+777,496,497,They are intelligent,Indian,Women,Ranked fourth,4,0.17,IND,India,Asia
+778,496,497,They are intelligent,Indian,Women,Ranked fifth,5,0.1,IND,India,Asia
+779,496,497,They are intelligent,Indian,Women,Ranked sixth,6,0.04,IND,India,Asia
+780,496,497,They have a decent amount of money,Indian,Women,Ranked first,1,0.04,IND,India,Asia
+781,496,497,They have a decent amount of money,Indian,Women,Ranked second,2,0.09,IND,India,Asia
+782,496,497,They have a decent amount of money,Indian,Women,Ranked third,3,0.09,IND,India,Asia
+783,496,497,They have a decent amount of money,Indian,Women,Ranked fourth,4,0.16,IND,India,Asia
+784,496,497,They have a decent amount of money,Indian,Women,Ranked fifth,5,0.23,IND,India,Asia
+785,496,497,They have a decent amount of money,Indian,Women,Ranked sixth,6,0.39,IND,India,Asia
+786,496,497,They have similar interests to me,Indian,Women,Ranked first,1,0.2,IND,India,Asia
+787,496,497,They have similar interests to me,Indian,Women,Ranked second,2,0.18,IND,India,Asia
+788,496,497,They have similar interests to me,Indian,Women,Ranked third,3,0.18,IND,India,Asia
+789,496,497,They have similar interests to me,Indian,Women,Ranked fourth,4,0.17,IND,India,Asia
+790,496,497,They have similar interests to me,Indian,Women,Ranked fifth,5,0.14,IND,India,Asia
+791,496,497,They have similar interests to me,Indian,Women,Ranked sixth,6,0.13,IND,India,Asia
+792,616,539,They are good looking,Indonesian,Men,Ranked first,1,0.35,IDN,Indonesia,Asia
+793,616,539,They are good looking,Indonesian,Men,Ranked second,2,0.19,IDN,Indonesia,Asia
+794,616,539,They are good looking,Indonesian,Men,Ranked third,3,0.2,IDN,Indonesia,Asia
+795,616,539,They are good looking,Indonesian,Men,Ranked fourth,4,0.11,IDN,Indonesia,Asia
+796,616,539,They are good looking,Indonesian,Men,Ranked fifth,5,0.11,IDN,Indonesia,Asia
+797,616,539,They are good looking,Indonesian,Men,Ranked sixth,6,0.05,IDN,Indonesia,Asia
+798,616,539,They have a personality I like,Indonesian,Men,Ranked first,1,0.35,IDN,Indonesia,Asia
+799,616,539,They have a personality I like,Indonesian,Men,Ranked second,2,0.26,IDN,Indonesia,Asia
+800,616,539,They have a personality I like,Indonesian,Men,Ranked third,3,0.15,IDN,Indonesia,Asia
+801,616,539,They have a personality I like,Indonesian,Men,Ranked fourth,4,0.12,IDN,Indonesia,Asia
+802,616,539,They have a personality I like,Indonesian,Men,Ranked fifth,5,0.08,IDN,Indonesia,Asia
+803,616,539,They have a personality I like,Indonesian,Men,Ranked sixth,6,0.04,IDN,Indonesia,Asia
+804,616,539,They have a sense of humour,Indonesian,Men,Ranked first,1,0.08,IDN,Indonesia,Asia
+805,616,539,They have a sense of humour,Indonesian,Men,Ranked second,2,0.16,IDN,Indonesia,Asia
+806,616,539,They have a sense of humour,Indonesian,Men,Ranked third,3,0.18,IDN,Indonesia,Asia
+807,616,539,They have a sense of humour,Indonesian,Men,Ranked fourth,4,0.32,IDN,Indonesia,Asia
+808,616,539,They have a sense of humour,Indonesian,Men,Ranked fifth,5,0.19,IDN,Indonesia,Asia
+809,616,539,They have a sense of humour,Indonesian,Men,Ranked sixth,6,0.07,IDN,Indonesia,Asia
+810,616,539,They are intelligent,Indonesian,Men,Ranked first,1,0.15,IDN,Indonesia,Asia
+811,616,539,They are intelligent,Indonesian,Men,Ranked second,2,0.26,IDN,Indonesia,Asia
+812,616,539,They are intelligent,Indonesian,Men,Ranked third,3,0.26,IDN,Indonesia,Asia
+813,616,539,They are intelligent,Indonesian,Men,Ranked fourth,4,0.2,IDN,Indonesia,Asia
+814,616,539,They are intelligent,Indonesian,Men,Ranked fifth,5,0.09,IDN,Indonesia,Asia
+815,616,539,They are intelligent,Indonesian,Men,Ranked sixth,6,0.03,IDN,Indonesia,Asia
+816,616,539,They have a decent amount of money,Indonesian,Men,Ranked first,1,0.03,IDN,Indonesia,Asia
+817,616,539,They have a decent amount of money,Indonesian,Men,Ranked second,2,0.03,IDN,Indonesia,Asia
+818,616,539,They have a decent amount of money,Indonesian,Men,Ranked third,3,0.06,IDN,Indonesia,Asia
+819,616,539,They have a decent amount of money,Indonesian,Men,Ranked fourth,4,0.09,IDN,Indonesia,Asia
+820,616,539,They have a decent amount of money,Indonesian,Men,Ranked fifth,5,0.16,IDN,Indonesia,Asia
+821,616,539,They have a decent amount of money,Indonesian,Men,Ranked sixth,6,0.64,IDN,Indonesia,Asia
+822,616,539,They have similar interests to me,Indonesian,Men,Ranked first,1,0.05,IDN,Indonesia,Asia
+823,616,539,They have similar interests to me,Indonesian,Men,Ranked second,2,0.1,IDN,Indonesia,Asia
+824,616,539,They have similar interests to me,Indonesian,Men,Ranked third,3,0.15,IDN,Indonesia,Asia
+825,616,539,They have similar interests to me,Indonesian,Men,Ranked fourth,4,0.17,IDN,Indonesia,Asia
+826,616,539,They have similar interests to me,Indonesian,Men,Ranked fifth,5,0.36,IDN,Indonesia,Asia
+827,616,539,They have similar interests to me,Indonesian,Men,Ranked sixth,6,0.17,IDN,Indonesia,Asia
+828,429,506,They are good looking,Indonesian,Women,Ranked first,1,0.18,IDN,Indonesia,Asia
+829,429,506,They are good looking,Indonesian,Women,Ranked second,2,0.12,IDN,Indonesia,Asia
+830,429,506,They are good looking,Indonesian,Women,Ranked third,3,0.14,IDN,Indonesia,Asia
+831,429,506,They are good looking,Indonesian,Women,Ranked fourth,4,0.18,IDN,Indonesia,Asia
+832,429,506,They are good looking,Indonesian,Women,Ranked fifth,5,0.22,IDN,Indonesia,Asia
+833,429,506,They are good looking,Indonesian,Women,Ranked sixth,6,0.17,IDN,Indonesia,Asia
+834,429,506,They have a personality I like,Indonesian,Women,Ranked first,1,0.46,IDN,Indonesia,Asia
+835,429,506,They have a personality I like,Indonesian,Women,Ranked second,2,0.2,IDN,Indonesia,Asia
+836,429,506,They have a personality I like,Indonesian,Women,Ranked third,3,0.12,IDN,Indonesia,Asia
+837,429,506,They have a personality I like,Indonesian,Women,Ranked fourth,4,0.1,IDN,Indonesia,Asia
+838,429,506,They have a personality I like,Indonesian,Women,Ranked fifth,5,0.08,IDN,Indonesia,Asia
+839,429,506,They have a personality I like,Indonesian,Women,Ranked sixth,6,0.04,IDN,Indonesia,Asia
+840,429,506,They have a sense of humour,Indonesian,Women,Ranked first,1,0.09,IDN,Indonesia,Asia
+841,429,506,They have a sense of humour,Indonesian,Women,Ranked second,2,0.22,IDN,Indonesia,Asia
+842,429,506,They have a sense of humour,Indonesian,Women,Ranked third,3,0.2,IDN,Indonesia,Asia
+843,429,506,They have a sense of humour,Indonesian,Women,Ranked fourth,4,0.17,IDN,Indonesia,Asia
+844,429,506,They have a sense of humour,Indonesian,Women,Ranked fifth,5,0.19,IDN,Indonesia,Asia
+845,429,506,They have a sense of humour,Indonesian,Women,Ranked sixth,6,0.14,IDN,Indonesia,Asia
+846,429,506,They are intelligent,Indonesian,Women,Ranked first,1,0.18,IDN,Indonesia,Asia
+847,429,506,They are intelligent,Indonesian,Women,Ranked second,2,0.26,IDN,Indonesia,Asia
+848,429,506,They are intelligent,Indonesian,Women,Ranked third,3,0.27,IDN,Indonesia,Asia
+849,429,506,They are intelligent,Indonesian,Women,Ranked fourth,4,0.16,IDN,Indonesia,Asia
+850,429,506,They are intelligent,Indonesian,Women,Ranked fifth,5,0.08,IDN,Indonesia,Asia
+851,429,506,They are intelligent,Indonesian,Women,Ranked sixth,6,0.05,IDN,Indonesia,Asia
+852,429,506,They have a decent amount of money,Indonesian,Women,Ranked first,1,0.05,IDN,Indonesia,Asia
+853,429,506,They have a decent amount of money,Indonesian,Women,Ranked second,2,0.1,IDN,Indonesia,Asia
+854,429,506,They have a decent amount of money,Indonesian,Women,Ranked third,3,0.14,IDN,Indonesia,Asia
+855,429,506,They have a decent amount of money,Indonesian,Women,Ranked fourth,4,0.19,IDN,Indonesia,Asia
+856,429,506,They have a decent amount of money,Indonesian,Women,Ranked fifth,5,0.23,IDN,Indonesia,Asia
+857,429,506,They have a decent amount of money,Indonesian,Women,Ranked sixth,6,0.28,IDN,Indonesia,Asia
+858,429,506,They have similar interests to me,Indonesian,Women,Ranked first,1,0.03,IDN,Indonesia,Asia
+859,429,506,They have similar interests to me,Indonesian,Women,Ranked second,2,0.11,IDN,Indonesia,Asia
+860,429,506,They have similar interests to me,Indonesian,Women,Ranked third,3,0.12,IDN,Indonesia,Asia
+861,429,506,They have similar interests to me,Indonesian,Women,Ranked fourth,4,0.2,IDN,Indonesia,Asia
+862,429,506,They have similar interests to me,Indonesian,Women,Ranked fifth,5,0.22,IDN,Indonesia,Asia
+863,429,506,They have similar interests to me,Indonesian,Women,Ranked sixth,6,0.32,IDN,Indonesia,Asia
+864,505,707,They are good looking,Malaysian,Men,Ranked first,1,0.24,MYS,Malaysia,Asia
+865,505,707,They are good looking,Malaysian,Men,Ranked second,2,0.15,MYS,Malaysia,Asia
+866,505,707,They are good looking,Malaysian,Men,Ranked third,3,0.15,MYS,Malaysia,Asia
+867,505,707,They are good looking,Malaysian,Men,Ranked fourth,4,0.16,MYS,Malaysia,Asia
+868,505,707,They are good looking,Malaysian,Men,Ranked fifth,5,0.18,MYS,Malaysia,Asia
+869,505,707,They are good looking,Malaysian,Men,Ranked sixth,6,0.13,MYS,Malaysia,Asia
+870,505,707,They have a personality I like,Malaysian,Men,Ranked first,1,0.42,MYS,Malaysia,Asia
+871,505,707,They have a personality I like,Malaysian,Men,Ranked second,2,0.23,MYS,Malaysia,Asia
+872,505,707,They have a personality I like,Malaysian,Men,Ranked third,3,0.14,MYS,Malaysia,Asia
+873,505,707,They have a personality I like,Malaysian,Men,Ranked fourth,4,0.1,MYS,Malaysia,Asia
+874,505,707,They have a personality I like,Malaysian,Men,Ranked fifth,5,0.06,MYS,Malaysia,Asia
+875,505,707,They have a personality I like,Malaysian,Men,Ranked sixth,6,0.05,MYS,Malaysia,Asia
+876,505,707,They have a sense of humour,Malaysian,Men,Ranked first,1,0.08,MYS,Malaysia,Asia
+877,505,707,They have a sense of humour,Malaysian,Men,Ranked second,2,0.21,MYS,Malaysia,Asia
+878,505,707,They have a sense of humour,Malaysian,Men,Ranked third,3,0.21,MYS,Malaysia,Asia
+879,505,707,They have a sense of humour,Malaysian,Men,Ranked fourth,4,0.2,MYS,Malaysia,Asia
+880,505,707,They have a sense of humour,Malaysian,Men,Ranked fifth,5,0.18,MYS,Malaysia,Asia
+881,505,707,They have a sense of humour,Malaysian,Men,Ranked sixth,6,0.12,MYS,Malaysia,Asia
+882,505,707,They are intelligent,Malaysian,Men,Ranked first,1,0.11,MYS,Malaysia,Asia
+883,505,707,They are intelligent,Malaysian,Men,Ranked second,2,0.16,MYS,Malaysia,Asia
+884,505,707,They are intelligent,Malaysian,Men,Ranked third,3,0.26,MYS,Malaysia,Asia
+885,505,707,They are intelligent,Malaysian,Men,Ranked fourth,4,0.24,MYS,Malaysia,Asia
+886,505,707,They are intelligent,Malaysian,Men,Ranked fifth,5,0.18,MYS,Malaysia,Asia
+887,505,707,They are intelligent,Malaysian,Men,Ranked sixth,6,0.05,MYS,Malaysia,Asia
+888,505,707,They have a decent amount of money,Malaysian,Men,Ranked first,1,0.03,MYS,Malaysia,Asia
+889,505,707,They have a decent amount of money,Malaysian,Men,Ranked second,2,0.07,MYS,Malaysia,Asia
+890,505,707,They have a decent amount of money,Malaysian,Men,Ranked third,3,0.09,MYS,Malaysia,Asia
+891,505,707,They have a decent amount of money,Malaysian,Men,Ranked fourth,4,0.12,MYS,Malaysia,Asia
+892,505,707,They have a decent amount of money,Malaysian,Men,Ranked fifth,5,0.16,MYS,Malaysia,Asia
+893,505,707,They have a decent amount of money,Malaysian,Men,Ranked sixth,6,0.52,MYS,Malaysia,Asia
+894,505,707,They have similar interests to me,Malaysian,Men,Ranked first,1,0.11,MYS,Malaysia,Asia
+895,505,707,They have similar interests to me,Malaysian,Men,Ranked second,2,0.18,MYS,Malaysia,Asia
+896,505,707,They have similar interests to me,Malaysian,Men,Ranked third,3,0.15,MYS,Malaysia,Asia
+897,505,707,They have similar interests to me,Malaysian,Men,Ranked fourth,4,0.18,MYS,Malaysia,Asia
+898,505,707,They have similar interests to me,Malaysian,Men,Ranked fifth,5,0.24,MYS,Malaysia,Asia
+899,505,707,They have similar interests to me,Malaysian,Men,Ranked sixth,6,0.13,MYS,Malaysia,Asia
+900,806,604,They are good looking,Malaysian,Women,Ranked first,1,0.09,MYS,Malaysia,Asia
+901,806,604,They are good looking,Malaysian,Women,Ranked second,2,0.08,MYS,Malaysia,Asia
+902,806,604,They are good looking,Malaysian,Women,Ranked third,3,0.11,MYS,Malaysia,Asia
+903,806,604,They are good looking,Malaysian,Women,Ranked fourth,4,0.14,MYS,Malaysia,Asia
+904,806,604,They are good looking,Malaysian,Women,Ranked fifth,5,0.2,MYS,Malaysia,Asia
+905,806,604,They are good looking,Malaysian,Women,Ranked sixth,6,0.38,MYS,Malaysia,Asia
+906,806,604,They have a personality I like,Malaysian,Women,Ranked first,1,0.47,MYS,Malaysia,Asia
+907,806,604,They have a personality I like,Malaysian,Women,Ranked second,2,0.23,MYS,Malaysia,Asia
+908,806,604,They have a personality I like,Malaysian,Women,Ranked third,3,0.13,MYS,Malaysia,Asia
+909,806,604,They have a personality I like,Malaysian,Women,Ranked fourth,4,0.09,MYS,Malaysia,Asia
+910,806,604,They have a personality I like,Malaysian,Women,Ranked fifth,5,0.05,MYS,Malaysia,Asia
+911,806,604,They have a personality I like,Malaysian,Women,Ranked sixth,6,0.03,MYS,Malaysia,Asia
+912,806,604,They have a sense of humour,Malaysian,Women,Ranked first,1,0.14,MYS,Malaysia,Asia
+913,806,604,They have a sense of humour,Malaysian,Women,Ranked second,2,0.21,MYS,Malaysia,Asia
+914,806,604,They have a sense of humour,Malaysian,Women,Ranked third,3,0.21,MYS,Malaysia,Asia
+915,806,604,They have a sense of humour,Malaysian,Women,Ranked fourth,4,0.2,MYS,Malaysia,Asia
+916,806,604,They have a sense of humour,Malaysian,Women,Ranked fifth,5,0.12,MYS,Malaysia,Asia
+917,806,604,They have a sense of humour,Malaysian,Women,Ranked sixth,6,0.11,MYS,Malaysia,Asia
+918,806,604,They are intelligent,Malaysian,Women,Ranked first,1,0.13,MYS,Malaysia,Asia
+919,806,604,They are intelligent,Malaysian,Women,Ranked second,2,0.2,MYS,Malaysia,Asia
+920,806,604,They are intelligent,Malaysian,Women,Ranked third,3,0.22,MYS,Malaysia,Asia
+921,806,604,They are intelligent,Malaysian,Women,Ranked fourth,4,0.22,MYS,Malaysia,Asia
+922,806,604,They are intelligent,Malaysian,Women,Ranked fifth,5,0.17,MYS,Malaysia,Asia
+923,806,604,They are intelligent,Malaysian,Women,Ranked sixth,6,0.06,MYS,Malaysia,Asia
+924,806,604,They have a decent amount of money,Malaysian,Women,Ranked first,1,0.09,MYS,Malaysia,Asia
+925,806,604,They have a decent amount of money,Malaysian,Women,Ranked second,2,0.13,MYS,Malaysia,Asia
+926,806,604,They have a decent amount of money,Malaysian,Women,Ranked third,3,0.14,MYS,Malaysia,Asia
+927,806,604,They have a decent amount of money,Malaysian,Women,Ranked fourth,4,0.18,MYS,Malaysia,Asia
+928,806,604,They have a decent amount of money,Malaysian,Women,Ranked fifth,5,0.25,MYS,Malaysia,Asia
+929,806,604,They have a decent amount of money,Malaysian,Women,Ranked sixth,6,0.21,MYS,Malaysia,Asia
+930,806,604,They have similar interests to me,Malaysian,Women,Ranked first,1,0.08,MYS,Malaysia,Asia
+931,806,604,They have similar interests to me,Malaysian,Women,Ranked second,2,0.15,MYS,Malaysia,Asia
+932,806,604,They have similar interests to me,Malaysian,Women,Ranked third,3,0.19,MYS,Malaysia,Asia
+933,806,604,They have similar interests to me,Malaysian,Women,Ranked fourth,4,0.17,MYS,Malaysia,Asia
+934,806,604,They have similar interests to me,Malaysian,Women,Ranked fifth,5,0.2,MYS,Malaysia,Asia
+935,806,604,They have similar interests to me,Malaysian,Women,Ranked sixth,6,0.22,MYS,Malaysia,Asia
+936,325,322,They are good looking,Norwegian,Men,Ranked first,1,0.14,NOR,Norway,Europe
+937,325,322,They are good looking,Norwegian,Men,Ranked second,2,0.16,NOR,Norway,Europe
+938,325,322,They are good looking,Norwegian,Men,Ranked third,3,0.21,NOR,Norway,Europe
+939,325,322,They are good looking,Norwegian,Men,Ranked fourth,4,0.19,NOR,Norway,Europe
+940,325,322,They are good looking,Norwegian,Men,Ranked fifth,5,0.24,NOR,Norway,Europe
+941,325,322,They are good looking,Norwegian,Men,Ranked sixth,6,0.05,NOR,Norway,Europe
+942,325,322,They have a personality I like,Norwegian,Men,Ranked first,1,0.65,NOR,Norway,Europe
+943,325,322,They have a personality I like,Norwegian,Men,Ranked second,2,0.17,NOR,Norway,Europe
+944,325,322,They have a personality I like,Norwegian,Men,Ranked third,3,0.06,NOR,Norway,Europe
+945,325,322,They have a personality I like,Norwegian,Men,Ranked fourth,4,0.06,NOR,Norway,Europe
+946,325,322,They have a personality I like,Norwegian,Men,Ranked fifth,5,0.02,NOR,Norway,Europe
+947,325,322,They have a personality I like,Norwegian,Men,Ranked sixth,6,0.03,NOR,Norway,Europe
+948,325,322,They have a sense of humour,Norwegian,Men,Ranked first,1,0.05,NOR,Norway,Europe
+949,325,322,They have a sense of humour,Norwegian,Men,Ranked second,2,0.28,NOR,Norway,Europe
+950,325,322,They have a sense of humour,Norwegian,Men,Ranked third,3,0.3,NOR,Norway,Europe
+951,325,322,They have a sense of humour,Norwegian,Men,Ranked fourth,4,0.18,NOR,Norway,Europe
+952,325,322,They have a sense of humour,Norwegian,Men,Ranked fifth,5,0.17,NOR,Norway,Europe
+953,325,322,They have a sense of humour,Norwegian,Men,Ranked sixth,6,0.01,NOR,Norway,Europe
+954,325,322,They are intelligent,Norwegian,Men,Ranked first,1,0.06,NOR,Norway,Europe
+955,325,322,They are intelligent,Norwegian,Men,Ranked second,2,0.15,NOR,Norway,Europe
+956,325,322,They are intelligent,Norwegian,Men,Ranked third,3,0.23,NOR,Norway,Europe
+957,325,322,They are intelligent,Norwegian,Men,Ranked fourth,4,0.27,NOR,Norway,Europe
+958,325,322,They are intelligent,Norwegian,Men,Ranked fifth,5,0.24,NOR,Norway,Europe
+959,325,322,They are intelligent,Norwegian,Men,Ranked sixth,6,0.04,NOR,Norway,Europe
+960,325,322,They have a decent amount of money,Norwegian,Men,Ranked first,1,0.01,NOR,Norway,Europe
+961,325,322,They have a decent amount of money,Norwegian,Men,Ranked second,2,0.01,NOR,Norway,Europe
+962,325,322,They have a decent amount of money,Norwegian,Men,Ranked third,3,0.03,NOR,Norway,Europe
+963,325,322,They have a decent amount of money,Norwegian,Men,Ranked fourth,4,0.05,NOR,Norway,Europe
+964,325,322,They have a decent amount of money,Norwegian,Men,Ranked fifth,5,0.11,NOR,Norway,Europe
+965,325,322,They have a decent amount of money,Norwegian,Men,Ranked sixth,6,0.79,NOR,Norway,Europe
+966,325,322,They have similar interests to me,Norwegian,Men,Ranked first,1,0.08,NOR,Norway,Europe
+967,325,322,They have similar interests to me,Norwegian,Men,Ranked second,2,0.22,NOR,Norway,Europe
+968,325,322,They have similar interests to me,Norwegian,Men,Ranked third,3,0.17,NOR,Norway,Europe
+969,325,322,They have similar interests to me,Norwegian,Men,Ranked fourth,4,0.24,NOR,Norway,Europe
+970,325,322,They have similar interests to me,Norwegian,Men,Ranked fifth,5,0.21,NOR,Norway,Europe
+971,325,322,They have similar interests to me,Norwegian,Men,Ranked sixth,6,0.07,NOR,Norway,Europe
+972,308,311,They are good looking,Norwegian,Women,Ranked first,1,0.05,NOR,Norway,Europe
+973,308,311,They are good looking,Norwegian,Women,Ranked second,2,0.09,NOR,Norway,Europe
+974,308,311,They are good looking,Norwegian,Women,Ranked third,3,0.1,NOR,Norway,Europe
+975,308,311,They are good looking,Norwegian,Women,Ranked fourth,4,0.22,NOR,Norway,Europe
+976,308,311,They are good looking,Norwegian,Women,Ranked fifth,5,0.37,NOR,Norway,Europe
+977,308,311,They are good looking,Norwegian,Women,Ranked sixth,6,0.17,NOR,Norway,Europe
+978,308,311,They have a personality I like,Norwegian,Women,Ranked first,1,0.66,NOR,Norway,Europe
+979,308,311,They have a personality I like,Norwegian,Women,Ranked second,2,0.2,NOR,Norway,Europe
+980,308,311,They have a personality I like,Norwegian,Women,Ranked third,3,0.07,NOR,Norway,Europe
+981,308,311,They have a personality I like,Norwegian,Women,Ranked fourth,4,0.05,NOR,Norway,Europe
+982,308,311,They have a personality I like,Norwegian,Women,Ranked fifth,5,0.01,NOR,Norway,Europe
+983,308,311,They have a personality I like,Norwegian,Women,Ranked sixth,6,0.01,NOR,Norway,Europe
+984,308,311,They have a sense of humour,Norwegian,Women,Ranked first,1,0.14,NOR,Norway,Europe
+985,308,311,They have a sense of humour,Norwegian,Women,Ranked second,2,0.34,NOR,Norway,Europe
+986,308,311,They have a sense of humour,Norwegian,Women,Ranked third,3,0.29,NOR,Norway,Europe
+987,308,311,They have a sense of humour,Norwegian,Women,Ranked fourth,4,0.12,NOR,Norway,Europe
+988,308,311,They have a sense of humour,Norwegian,Women,Ranked fifth,5,0.08,NOR,Norway,Europe
+989,308,311,They have a sense of humour,Norwegian,Women,Ranked sixth,6,0.03,NOR,Norway,Europe
+990,308,311,They are intelligent,Norwegian,Women,Ranked first,1,0.05,NOR,Norway,Europe
+991,308,311,They are intelligent,Norwegian,Women,Ranked second,2,0.16,NOR,Norway,Europe
+992,308,311,They are intelligent,Norwegian,Women,Ranked third,3,0.25,NOR,Norway,Europe
+993,308,311,They are intelligent,Norwegian,Women,Ranked fourth,4,0.34,NOR,Norway,Europe
+994,308,311,They are intelligent,Norwegian,Women,Ranked fifth,5,0.17,NOR,Norway,Europe
+995,308,311,They are intelligent,Norwegian,Women,Ranked sixth,6,0.03,NOR,Norway,Europe
+996,308,311,They have a decent amount of money,Norwegian,Women,Ranked first,1,0.01,NOR,Norway,Europe
+997,308,311,They have a decent amount of money,Norwegian,Women,Ranked second,2,0.01,NOR,Norway,Europe
+998,308,311,They have a decent amount of money,Norwegian,Women,Ranked third,3,0.04,NOR,Norway,Europe
+999,308,311,They have a decent amount of money,Norwegian,Women,Ranked fourth,4,0.05,NOR,Norway,Europe
+1000,308,311,They have a decent amount of money,Norwegian,Women,Ranked fifth,5,0.2,NOR,Norway,Europe
+1001,308,311,They have a decent amount of money,Norwegian,Women,Ranked sixth,6,0.69,NOR,Norway,Europe
+1002,308,311,They have similar interests to me,Norwegian,Women,Ranked first,1,0.1,NOR,Norway,Europe
+1003,308,311,They have similar interests to me,Norwegian,Women,Ranked second,2,0.21,NOR,Norway,Europe
+1004,308,311,They have similar interests to me,Norwegian,Women,Ranked third,3,0.25,NOR,Norway,Europe
+1005,308,311,They have similar interests to me,Norwegian,Women,Ranked fourth,4,0.21,NOR,Norway,Europe
+1006,308,311,They have similar interests to me,Norwegian,Women,Ranked fifth,5,0.16,NOR,Norway,Europe
+1007,308,311,They have similar interests to me,Norwegian,Women,Ranked sixth,6,0.07,NOR,Norway,Europe
+1008,496,506,They are good looking,Singaporean,Men,Ranked first,1,0.2,SGP,Singapore,Asia
+1009,496,506,They are good looking,Singaporean,Men,Ranked second,2,0.18,SGP,Singapore,Asia
+1010,496,506,They are good looking,Singaporean,Men,Ranked third,3,0.16,SGP,Singapore,Asia
+1011,496,506,They are good looking,Singaporean,Men,Ranked fourth,4,0.17,SGP,Singapore,Asia
+1012,496,506,They are good looking,Singaporean,Men,Ranked fifth,5,0.2,SGP,Singapore,Asia
+1013,496,506,They are good looking,Singaporean,Men,Ranked sixth,6,0.08,SGP,Singapore,Asia
+1014,496,506,They have a personality I like,Singaporean,Men,Ranked first,1,0.49,SGP,Singapore,Asia
+1015,496,506,They have a personality I like,Singaporean,Men,Ranked second,2,0.23,SGP,Singapore,Asia
+1016,496,506,They have a personality I like,Singaporean,Men,Ranked third,3,0.14,SGP,Singapore,Asia
+1017,496,506,They have a personality I like,Singaporean,Men,Ranked fourth,4,0.07,SGP,Singapore,Asia
+1018,496,506,They have a personality I like,Singaporean,Men,Ranked fifth,5,0.04,SGP,Singapore,Asia
+1019,496,506,They have a personality I like,Singaporean,Men,Ranked sixth,6,0.03,SGP,Singapore,Asia
+1020,496,506,They have a sense of humour,Singaporean,Men,Ranked first,1,0.08,SGP,Singapore,Asia
+1021,496,506,They have a sense of humour,Singaporean,Men,Ranked second,2,0.19,SGP,Singapore,Asia
+1022,496,506,They have a sense of humour,Singaporean,Men,Ranked third,3,0.24,SGP,Singapore,Asia
+1023,496,506,They have a sense of humour,Singaporean,Men,Ranked fourth,4,0.23,SGP,Singapore,Asia
+1024,496,506,They have a sense of humour,Singaporean,Men,Ranked fifth,5,0.17,SGP,Singapore,Asia
+1025,496,506,They have a sense of humour,Singaporean,Men,Ranked sixth,6,0.09,SGP,Singapore,Asia
+1026,496,506,They are intelligent,Singaporean,Men,Ranked first,1,0.09,SGP,Singapore,Asia
+1027,496,506,They are intelligent,Singaporean,Men,Ranked second,2,0.13,SGP,Singapore,Asia
+1028,496,506,They are intelligent,Singaporean,Men,Ranked third,3,0.24,SGP,Singapore,Asia
+1029,496,506,They are intelligent,Singaporean,Men,Ranked fourth,4,0.24,SGP,Singapore,Asia
+1030,496,506,They are intelligent,Singaporean,Men,Ranked fifth,5,0.24,SGP,Singapore,Asia
+1031,496,506,They are intelligent,Singaporean,Men,Ranked sixth,6,0.06,SGP,Singapore,Asia
+1032,496,506,They have a decent amount of money,Singaporean,Men,Ranked first,1,0.02,SGP,Singapore,Asia
+1033,496,506,They have a decent amount of money,Singaporean,Men,Ranked second,2,0.04,SGP,Singapore,Asia
+1034,496,506,They have a decent amount of money,Singaporean,Men,Ranked third,3,0.07,SGP,Singapore,Asia
+1035,496,506,They have a decent amount of money,Singaporean,Men,Ranked fourth,4,0.09,SGP,Singapore,Asia
+1036,496,506,They have a decent amount of money,Singaporean,Men,Ranked fifth,5,0.17,SGP,Singapore,Asia
+1037,496,506,They have a decent amount of money,Singaporean,Men,Ranked sixth,6,0.61,SGP,Singapore,Asia
+1038,496,506,They have similar interests to me,Singaporean,Men,Ranked first,1,0.11,SGP,Singapore,Asia
+1039,496,506,They have similar interests to me,Singaporean,Men,Ranked second,2,0.23,SGP,Singapore,Asia
+1040,496,506,They have similar interests to me,Singaporean,Men,Ranked third,3,0.14,SGP,Singapore,Asia
+1041,496,506,They have similar interests to me,Singaporean,Men,Ranked fourth,4,0.21,SGP,Singapore,Asia
+1042,496,506,They have similar interests to me,Singaporean,Men,Ranked fifth,5,0.19,SGP,Singapore,Asia
+1043,496,506,They have similar interests to me,Singaporean,Men,Ranked sixth,6,0.12,SGP,Singapore,Asia
+1044,534,524,They are good looking,Singaporean,Women,Ranked first,1,0.09,SGP,Singapore,Asia
+1045,534,524,They are good looking,Singaporean,Women,Ranked second,2,0.06,SGP,Singapore,Asia
+1046,534,524,They are good looking,Singaporean,Women,Ranked third,3,0.09,SGP,Singapore,Asia
+1047,534,524,They are good looking,Singaporean,Women,Ranked fourth,4,0.14,SGP,Singapore,Asia
+1048,534,524,They are good looking,Singaporean,Women,Ranked fifth,5,0.23,SGP,Singapore,Asia
+1049,534,524,They are good looking,Singaporean,Women,Ranked sixth,6,0.4,SGP,Singapore,Asia
+1050,534,524,They have a personality I like,Singaporean,Women,Ranked first,1,0.5,SGP,Singapore,Asia
+1051,534,524,They have a personality I like,Singaporean,Women,Ranked second,2,0.21,SGP,Singapore,Asia
+1052,534,524,They have a personality I like,Singaporean,Women,Ranked third,3,0.13,SGP,Singapore,Asia
+1053,534,524,They have a personality I like,Singaporean,Women,Ranked fourth,4,0.09,SGP,Singapore,Asia
+1054,534,524,They have a personality I like,Singaporean,Women,Ranked fifth,5,0.04,SGP,Singapore,Asia
+1055,534,524,They have a personality I like,Singaporean,Women,Ranked sixth,6,0.03,SGP,Singapore,Asia
+1056,534,524,They have a sense of humour,Singaporean,Women,Ranked first,1,0.16,SGP,Singapore,Asia
+1057,534,524,They have a sense of humour,Singaporean,Women,Ranked second,2,0.28,SGP,Singapore,Asia
+1058,534,524,They have a sense of humour,Singaporean,Women,Ranked third,3,0.23,SGP,Singapore,Asia
+1059,534,524,They have a sense of humour,Singaporean,Women,Ranked fourth,4,0.16,SGP,Singapore,Asia
+1060,534,524,They have a sense of humour,Singaporean,Women,Ranked fifth,5,0.1,SGP,Singapore,Asia
+1061,534,524,They have a sense of humour,Singaporean,Women,Ranked sixth,6,0.07,SGP,Singapore,Asia
+1062,534,524,They are intelligent,Singaporean,Women,Ranked first,1,0.12,SGP,Singapore,Asia
+1063,534,524,They are intelligent,Singaporean,Women,Ranked second,2,0.16,SGP,Singapore,Asia
+1064,534,524,They are intelligent,Singaporean,Women,Ranked third,3,0.21,SGP,Singapore,Asia
+1065,534,524,They are intelligent,Singaporean,Women,Ranked fourth,4,0.26,SGP,Singapore,Asia
+1066,534,524,They are intelligent,Singaporean,Women,Ranked fifth,5,0.19,SGP,Singapore,Asia
+1067,534,524,They are intelligent,Singaporean,Women,Ranked sixth,6,0.08,SGP,Singapore,Asia
+1068,534,524,They have a decent amount of money,Singaporean,Women,Ranked first,1,0.03,SGP,Singapore,Asia
+1069,534,524,They have a decent amount of money,Singaporean,Women,Ranked second,2,0.07,SGP,Singapore,Asia
+1070,534,524,They have a decent amount of money,Singaporean,Women,Ranked third,3,0.13,SGP,Singapore,Asia
+1071,534,524,They have a decent amount of money,Singaporean,Women,Ranked fourth,4,0.16,SGP,Singapore,Asia
+1072,534,524,They have a decent amount of money,Singaporean,Women,Ranked fifth,5,0.3,SGP,Singapore,Asia
+1073,534,524,They have a decent amount of money,Singaporean,Women,Ranked sixth,6,0.3,SGP,Singapore,Asia
+1074,534,524,They have similar interests to me,Singaporean,Women,Ranked first,1,0.1,SGP,Singapore,Asia
+1075,534,524,They have similar interests to me,Singaporean,Women,Ranked second,2,0.23,SGP,Singapore,Asia
+1076,534,524,They have similar interests to me,Singaporean,Women,Ranked third,3,0.22,SGP,Singapore,Asia
+1077,534,524,They have similar interests to me,Singaporean,Women,Ranked fourth,4,0.19,SGP,Singapore,Asia
+1078,534,524,They have similar interests to me,Singaporean,Women,Ranked fifth,5,0.14,SGP,Singapore,Asia
+1079,534,524,They have similar interests to me,Singaporean,Women,Ranked sixth,6,0.13,SGP,Singapore,Asia
+1080,507,490,They are good looking,Swedish,Men,Ranked first,1,0.14,SWE,Sweden,Europe
+1081,507,490,They are good looking,Swedish,Men,Ranked second,2,0.12,SWE,Sweden,Europe
+1082,507,490,They are good looking,Swedish,Men,Ranked third,3,0.23,SWE,Sweden,Europe
+1083,507,490,They are good looking,Swedish,Men,Ranked fourth,4,0.18,SWE,Sweden,Europe
+1084,507,490,They are good looking,Swedish,Men,Ranked fifth,5,0.27,SWE,Sweden,Europe
+1085,507,490,They are good looking,Swedish,Men,Ranked sixth,6,0.04,SWE,Sweden,Europe
+1086,507,490,They have a personality I like,Swedish,Men,Ranked first,1,0.62,SWE,Sweden,Europe
+1087,507,490,They have a personality I like,Swedish,Men,Ranked second,2,0.2,SWE,Sweden,Europe
+1088,507,490,They have a personality I like,Swedish,Men,Ranked third,3,0.07,SWE,Sweden,Europe
+1089,507,490,They have a personality I like,Swedish,Men,Ranked fourth,4,0.05,SWE,Sweden,Europe
+1090,507,490,They have a personality I like,Swedish,Men,Ranked fifth,5,0.04,SWE,Sweden,Europe
+1091,507,490,They have a personality I like,Swedish,Men,Ranked sixth,6,0.03,SWE,Sweden,Europe
+1092,507,490,They have a sense of humour,Swedish,Men,Ranked first,1,0.09,SWE,Sweden,Europe
+1093,507,490,They have a sense of humour,Swedish,Men,Ranked second,2,0.29,SWE,Sweden,Europe
+1094,507,490,They have a sense of humour,Swedish,Men,Ranked third,3,0.25,SWE,Sweden,Europe
+1095,507,490,They have a sense of humour,Swedish,Men,Ranked fourth,4,0.22,SWE,Sweden,Europe
+1096,507,490,They have a sense of humour,Swedish,Men,Ranked fifth,5,0.11,SWE,Sweden,Europe
+1097,507,490,They have a sense of humour,Swedish,Men,Ranked sixth,6,0.04,SWE,Sweden,Europe
+1098,507,490,They are intelligent,Swedish,Men,Ranked first,1,0.08,SWE,Sweden,Europe
+1099,507,490,They are intelligent,Swedish,Men,Ranked second,2,0.21,SWE,Sweden,Europe
+1100,507,490,They are intelligent,Swedish,Men,Ranked third,3,0.23,SWE,Sweden,Europe
+1101,507,490,They are intelligent,Swedish,Men,Ranked fourth,4,0.27,SWE,Sweden,Europe
+1102,507,490,They are intelligent,Swedish,Men,Ranked fifth,5,0.17,SWE,Sweden,Europe
+1103,507,490,They are intelligent,Swedish,Men,Ranked sixth,6,0.05,SWE,Sweden,Europe
+1104,507,490,They have a decent amount of money,Swedish,Men,Ranked first,1,0,SWE,Sweden,Europe
+1105,507,490,They have a decent amount of money,Swedish,Men,Ranked second,2,0.01,SWE,Sweden,Europe
+1106,507,490,They have a decent amount of money,Swedish,Men,Ranked third,3,0.05,SWE,Sweden,Europe
+1107,507,490,They have a decent amount of money,Swedish,Men,Ranked fourth,4,0.04,SWE,Sweden,Europe
+1108,507,490,They have a decent amount of money,Swedish,Men,Ranked fifth,5,0.12,SWE,Sweden,Europe
+1109,507,490,They have a decent amount of money,Swedish,Men,Ranked sixth,6,0.77,SWE,Sweden,Europe
+1110,507,490,They have similar interests to me,Swedish,Men,Ranked first,1,0.08,SWE,Sweden,Europe
+1111,507,490,They have similar interests to me,Swedish,Men,Ranked second,2,0.16,SWE,Sweden,Europe
+1112,507,490,They have similar interests to me,Swedish,Men,Ranked third,3,0.18,SWE,Sweden,Europe
+1113,507,490,They have similar interests to me,Swedish,Men,Ranked fourth,4,0.23,SWE,Sweden,Europe
+1114,507,490,They have similar interests to me,Swedish,Men,Ranked fifth,5,0.29,SWE,Sweden,Europe
+1115,507,490,They have similar interests to me,Swedish,Men,Ranked sixth,6,0.06,SWE,Sweden,Europe
+1116,499,523,They are good looking,Swedish,Women,Ranked first,1,0.05,SWE,Sweden,Europe
+1117,499,523,They are good looking,Swedish,Women,Ranked second,2,0.1,SWE,Sweden,Europe
+1118,499,523,They are good looking,Swedish,Women,Ranked third,3,0.11,SWE,Sweden,Europe
+1119,499,523,They are good looking,Swedish,Women,Ranked fourth,4,0.21,SWE,Sweden,Europe
+1120,499,523,They are good looking,Swedish,Women,Ranked fifth,5,0.4,SWE,Sweden,Europe
+1121,499,523,They are good looking,Swedish,Women,Ranked sixth,6,0.13,SWE,Sweden,Europe
+1122,499,523,They have a personality I like,Swedish,Women,Ranked first,1,0.73,SWE,Sweden,Europe
+1123,499,523,They have a personality I like,Swedish,Women,Ranked second,2,0.13,SWE,Sweden,Europe
+1124,499,523,They have a personality I like,Swedish,Women,Ranked third,3,0.07,SWE,Sweden,Europe
+1125,499,523,They have a personality I like,Swedish,Women,Ranked fourth,4,0.05,SWE,Sweden,Europe
+1126,499,523,They have a personality I like,Swedish,Women,Ranked fifth,5,0.02,SWE,Sweden,Europe
+1127,499,523,They have a personality I like,Swedish,Women,Ranked sixth,6,0.01,SWE,Sweden,Europe
+1128,499,523,They have a sense of humour,Swedish,Women,Ranked first,1,0.08,SWE,Sweden,Europe
+1129,499,523,They have a sense of humour,Swedish,Women,Ranked second,2,0.37,SWE,Sweden,Europe
+1130,499,523,They have a sense of humour,Swedish,Women,Ranked third,3,0.26,SWE,Sweden,Europe
+1131,499,523,They have a sense of humour,Swedish,Women,Ranked fourth,4,0.19,SWE,Sweden,Europe
+1132,499,523,They have a sense of humour,Swedish,Women,Ranked fifth,5,0.07,SWE,Sweden,Europe
+1133,499,523,They have a sense of humour,Swedish,Women,Ranked sixth,6,0.03,SWE,Sweden,Europe
+1134,499,523,They are intelligent,Swedish,Women,Ranked first,1,0.07,SWE,Sweden,Europe
+1135,499,523,They are intelligent,Swedish,Women,Ranked second,2,0.18,SWE,Sweden,Europe
+1136,499,523,They are intelligent,Swedish,Women,Ranked third,3,0.28,SWE,Sweden,Europe
+1137,499,523,They are intelligent,Swedish,Women,Ranked fourth,4,0.28,SWE,Sweden,Europe
+1138,499,523,They are intelligent,Swedish,Women,Ranked fifth,5,0.17,SWE,Sweden,Europe
+1139,499,523,They are intelligent,Swedish,Women,Ranked sixth,6,0.02,SWE,Sweden,Europe
+1140,499,523,They have a decent amount of money,Swedish,Women,Ranked first,1,0,SWE,Sweden,Europe
+1141,499,523,They have a decent amount of money,Swedish,Women,Ranked second,2,0.01,SWE,Sweden,Europe
+1142,499,523,They have a decent amount of money,Swedish,Women,Ranked third,3,0.02,SWE,Sweden,Europe
+1143,499,523,They have a decent amount of money,Swedish,Women,Ranked fourth,4,0.05,SWE,Sweden,Europe
+1144,499,523,They have a decent amount of money,Swedish,Women,Ranked fifth,5,0.16,SWE,Sweden,Europe
+1145,499,523,They have a decent amount of money,Swedish,Women,Ranked sixth,6,0.76,SWE,Sweden,Europe
+1146,499,523,They have similar interests to me,Swedish,Women,Ranked first,1,0.08,SWE,Sweden,Europe
+1147,499,523,They have similar interests to me,Swedish,Women,Ranked second,2,0.22,SWE,Sweden,Europe
+1148,499,523,They have similar interests to me,Swedish,Women,Ranked third,3,0.26,SWE,Sweden,Europe
+1149,499,523,They have similar interests to me,Swedish,Women,Ranked fourth,4,0.22,SWE,Sweden,Europe
+1150,499,523,They have similar interests to me,Swedish,Women,Ranked fifth,5,0.18,SWE,Sweden,Europe
+1151,499,523,They have similar interests to me,Swedish,Women,Ranked sixth,6,0.05,SWE,Sweden,Europe
+1152,426,503,They are good looking,Thai,Men,Ranked first,1,0.33,THA,Thailand,Asia
+1153,426,503,They are good looking,Thai,Men,Ranked second,2,0.2,THA,Thailand,Asia
+1154,426,503,They are good looking,Thai,Men,Ranked third,3,0.2,THA,Thailand,Asia
+1155,426,503,They are good looking,Thai,Men,Ranked fourth,4,0.15,THA,Thailand,Asia
+1156,426,503,They are good looking,Thai,Men,Ranked fifth,5,0.08,THA,Thailand,Asia
+1157,426,503,They are good looking,Thai,Men,Ranked sixth,6,0.05,THA,Thailand,Asia
+1158,426,503,They have a personality I like,Thai,Men,Ranked first,1,0.34,THA,Thailand,Asia
+1159,426,503,They have a personality I like,Thai,Men,Ranked second,2,0.26,THA,Thailand,Asia
+1160,426,503,They have a personality I like,Thai,Men,Ranked third,3,0.15,THA,Thailand,Asia
+1161,426,503,They have a personality I like,Thai,Men,Ranked fourth,4,0.13,THA,Thailand,Asia
+1162,426,503,They have a personality I like,Thai,Men,Ranked fifth,5,0.07,THA,Thailand,Asia
+1163,426,503,They have a personality I like,Thai,Men,Ranked sixth,6,0.04,THA,Thailand,Asia
+1164,426,503,They have a sense of humour,Thai,Men,Ranked first,1,0.12,THA,Thailand,Asia
+1165,426,503,They have a sense of humour,Thai,Men,Ranked second,2,0.22,THA,Thailand,Asia
+1166,426,503,They have a sense of humour,Thai,Men,Ranked third,3,0.24,THA,Thailand,Asia
+1167,426,503,They have a sense of humour,Thai,Men,Ranked fourth,4,0.22,THA,Thailand,Asia
+1168,426,503,They have a sense of humour,Thai,Men,Ranked fifth,5,0.11,THA,Thailand,Asia
+1169,426,503,They have a sense of humour,Thai,Men,Ranked sixth,6,0.1,THA,Thailand,Asia
+1170,426,503,They are intelligent,Thai,Men,Ranked first,1,0.12,THA,Thailand,Asia
+1171,426,503,They are intelligent,Thai,Men,Ranked second,2,0.22,THA,Thailand,Asia
+1172,426,503,They are intelligent,Thai,Men,Ranked third,3,0.28,THA,Thailand,Asia
+1173,426,503,They are intelligent,Thai,Men,Ranked fourth,4,0.25,THA,Thailand,Asia
+1174,426,503,They are intelligent,Thai,Men,Ranked fifth,5,0.08,THA,Thailand,Asia
+1175,426,503,They are intelligent,Thai,Men,Ranked sixth,6,0.05,THA,Thailand,Asia
+1176,426,503,They have a decent amount of money,Thai,Men,Ranked first,1,0.02,THA,Thailand,Asia
+1177,426,503,They have a decent amount of money,Thai,Men,Ranked second,2,0.04,THA,Thailand,Asia
+1178,426,503,They have a decent amount of money,Thai,Men,Ranked third,3,0.08,THA,Thailand,Asia
+1179,426,503,They have a decent amount of money,Thai,Men,Ranked fourth,4,0.09,THA,Thailand,Asia
+1180,426,503,They have a decent amount of money,Thai,Men,Ranked fifth,5,0.29,THA,Thailand,Asia
+1181,426,503,They have a decent amount of money,Thai,Men,Ranked sixth,6,0.47,THA,Thailand,Asia
+1182,426,503,They have similar interests to me,Thai,Men,Ranked first,1,0.07,THA,Thailand,Asia
+1183,426,503,They have similar interests to me,Thai,Men,Ranked second,2,0.06,THA,Thailand,Asia
+1184,426,503,They have similar interests to me,Thai,Men,Ranked third,3,0.06,THA,Thailand,Asia
+1185,426,503,They have similar interests to me,Thai,Men,Ranked fourth,4,0.16,THA,Thailand,Asia
+1186,426,503,They have similar interests to me,Thai,Men,Ranked fifth,5,0.37,THA,Thailand,Asia
+1187,426,503,They have similar interests to me,Thai,Men,Ranked sixth,6,0.29,THA,Thailand,Asia
+1188,596,519,They are good looking,Thai,Women,Ranked first,1,0.2,THA,Thailand,Asia
+1189,596,519,They are good looking,Thai,Women,Ranked second,2,0.15,THA,Thailand,Asia
+1190,596,519,They are good looking,Thai,Women,Ranked third,3,0.19,THA,Thailand,Asia
+1191,596,519,They are good looking,Thai,Women,Ranked fourth,4,0.18,THA,Thailand,Asia
+1192,596,519,They are good looking,Thai,Women,Ranked fifth,5,0.13,THA,Thailand,Asia
+1193,596,519,They are good looking,Thai,Women,Ranked sixth,6,0.14,THA,Thailand,Asia
+1194,596,519,They have a personality I like,Thai,Women,Ranked first,1,0.33,THA,Thailand,Asia
+1195,596,519,They have a personality I like,Thai,Women,Ranked second,2,0.18,THA,Thailand,Asia
+1196,596,519,They have a personality I like,Thai,Women,Ranked third,3,0.14,THA,Thailand,Asia
+1197,596,519,They have a personality I like,Thai,Women,Ranked fourth,4,0.17,THA,Thailand,Asia
+1198,596,519,They have a personality I like,Thai,Women,Ranked fifth,5,0.13,THA,Thailand,Asia
+1199,596,519,They have a personality I like,Thai,Women,Ranked sixth,6,0.06,THA,Thailand,Asia
+1200,596,519,They have a sense of humour,Thai,Women,Ranked first,1,0.15,THA,Thailand,Asia
+1201,596,519,They have a sense of humour,Thai,Women,Ranked second,2,0.21,THA,Thailand,Asia
+1202,596,519,They have a sense of humour,Thai,Women,Ranked third,3,0.19,THA,Thailand,Asia
+1203,596,519,They have a sense of humour,Thai,Women,Ranked fourth,4,0.18,THA,Thailand,Asia
+1204,596,519,They have a sense of humour,Thai,Women,Ranked fifth,5,0.16,THA,Thailand,Asia
+1205,596,519,They have a sense of humour,Thai,Women,Ranked sixth,6,0.11,THA,Thailand,Asia
+1206,596,519,They are intelligent,Thai,Women,Ranked first,1,0.13,THA,Thailand,Asia
+1207,596,519,They are intelligent,Thai,Women,Ranked second,2,0.24,THA,Thailand,Asia
+1208,596,519,They are intelligent,Thai,Women,Ranked third,3,0.25,THA,Thailand,Asia
+1209,596,519,They are intelligent,Thai,Women,Ranked fourth,4,0.2,THA,Thailand,Asia
+1210,596,519,They are intelligent,Thai,Women,Ranked fifth,5,0.12,THA,Thailand,Asia
+1211,596,519,They are intelligent,Thai,Women,Ranked sixth,6,0.07,THA,Thailand,Asia
+1212,596,519,They have a decent amount of money,Thai,Women,Ranked first,1,0.04,THA,Thailand,Asia
+1213,596,519,They have a decent amount of money,Thai,Women,Ranked second,2,0.11,THA,Thailand,Asia
+1214,596,519,They have a decent amount of money,Thai,Women,Ranked third,3,0.11,THA,Thailand,Asia
+1215,596,519,They have a decent amount of money,Thai,Women,Ranked fourth,4,0.12,THA,Thailand,Asia
+1216,596,519,They have a decent amount of money,Thai,Women,Ranked fifth,5,0.23,THA,Thailand,Asia
+1217,596,519,They have a decent amount of money,Thai,Women,Ranked sixth,6,0.4,THA,Thailand,Asia
+1218,596,519,They have similar interests to me,Thai,Women,Ranked first,1,0.16,THA,Thailand,Asia
+1219,596,519,They have similar interests to me,Thai,Women,Ranked second,2,0.11,THA,Thailand,Asia
+1220,596,519,They have similar interests to me,Thai,Women,Ranked third,3,0.13,THA,Thailand,Asia
+1221,596,519,They have similar interests to me,Thai,Women,Ranked fourth,4,0.15,THA,Thailand,Asia
+1222,596,519,They have similar interests to me,Thai,Women,Ranked fifth,5,0.24,THA,Thailand,Asia
+1223,596,519,They have similar interests to me,Thai,Women,Ranked sixth,6,0.22,THA,Thailand,Asia
+1224,620,670,They are good looking,UAE,Men,Ranked first,1,0.28,ARE,United Arab Emirates,Asia
+1225,620,670,They are good looking,UAE,Men,Ranked second,2,0.19,ARE,United Arab Emirates,Asia
+1226,620,670,They are good looking,UAE,Men,Ranked third,3,0.14,ARE,United Arab Emirates,Asia
+1227,620,670,They are good looking,UAE,Men,Ranked fourth,4,0.13,ARE,United Arab Emirates,Asia
+1228,620,670,They are good looking,UAE,Men,Ranked fifth,5,0.19,ARE,United Arab Emirates,Asia
+1229,620,670,They are good looking,UAE,Men,Ranked sixth,6,0.06,ARE,United Arab Emirates,Asia
+1230,620,670,They have a personality I like,UAE,Men,Ranked first,1,0.34,ARE,United Arab Emirates,Asia
+1231,620,670,They have a personality I like,UAE,Men,Ranked second,2,0.21,ARE,United Arab Emirates,Asia
+1232,620,670,They have a personality I like,UAE,Men,Ranked third,3,0.18,ARE,United Arab Emirates,Asia
+1233,620,670,They have a personality I like,UAE,Men,Ranked fourth,4,0.11,ARE,United Arab Emirates,Asia
+1234,620,670,They have a personality I like,UAE,Men,Ranked fifth,5,0.09,ARE,United Arab Emirates,Asia
+1235,620,670,They have a personality I like,UAE,Men,Ranked sixth,6,0.06,ARE,United Arab Emirates,Asia
+1236,620,670,They have a sense of humour,UAE,Men,Ranked first,1,0.08,ARE,United Arab Emirates,Asia
+1237,620,670,They have a sense of humour,UAE,Men,Ranked second,2,0.17,ARE,United Arab Emirates,Asia
+1238,620,670,They have a sense of humour,UAE,Men,Ranked third,3,0.21,ARE,United Arab Emirates,Asia
+1239,620,670,They have a sense of humour,UAE,Men,Ranked fourth,4,0.25,ARE,United Arab Emirates,Asia
+1240,620,670,They have a sense of humour,UAE,Men,Ranked fifth,5,0.2,ARE,United Arab Emirates,Asia
+1241,620,670,They have a sense of humour,UAE,Men,Ranked sixth,6,0.09,ARE,United Arab Emirates,Asia
+1242,620,670,They are intelligent,UAE,Men,Ranked first,1,0.14,ARE,United Arab Emirates,Asia
+1243,620,670,They are intelligent,UAE,Men,Ranked second,2,0.23,ARE,United Arab Emirates,Asia
+1244,620,670,They are intelligent,UAE,Men,Ranked third,3,0.23,ARE,United Arab Emirates,Asia
+1245,620,670,They are intelligent,UAE,Men,Ranked fourth,4,0.22,ARE,United Arab Emirates,Asia
+1246,620,670,They are intelligent,UAE,Men,Ranked fifth,5,0.13,ARE,United Arab Emirates,Asia
+1247,620,670,They are intelligent,UAE,Men,Ranked sixth,6,0.05,ARE,United Arab Emirates,Asia
+1248,620,670,They have a decent amount of money,UAE,Men,Ranked first,1,0.03,ARE,United Arab Emirates,Asia
+1249,620,670,They have a decent amount of money,UAE,Men,Ranked second,2,0.06,ARE,United Arab Emirates,Asia
+1250,620,670,They have a decent amount of money,UAE,Men,Ranked third,3,0.07,ARE,United Arab Emirates,Asia
+1251,620,670,They have a decent amount of money,UAE,Men,Ranked fourth,4,0.08,ARE,United Arab Emirates,Asia
+1252,620,670,They have a decent amount of money,UAE,Men,Ranked fifth,5,0.16,ARE,United Arab Emirates,Asia
+1253,620,670,They have a decent amount of money,UAE,Men,Ranked sixth,6,0.6,ARE,United Arab Emirates,Asia
+1254,620,670,They have similar interests to me,UAE,Men,Ranked first,1,0.12,ARE,United Arab Emirates,Asia
+1255,620,670,They have similar interests to me,UAE,Men,Ranked second,2,0.15,ARE,United Arab Emirates,Asia
+1256,620,670,They have similar interests to me,UAE,Men,Ranked third,3,0.16,ARE,United Arab Emirates,Asia
+1257,620,670,They have similar interests to me,UAE,Men,Ranked fourth,4,0.21,ARE,United Arab Emirates,Asia
+1258,620,670,They have similar interests to me,UAE,Men,Ranked fifth,5,0.23,ARE,United Arab Emirates,Asia
+1259,620,670,They have similar interests to me,UAE,Men,Ranked sixth,6,0.13,ARE,United Arab Emirates,Asia
+1260,382,332,They are good looking,UAE,Women,Ranked first,1,0.12,ARE,United Arab Emirates,Asia
+1261,382,332,They are good looking,UAE,Women,Ranked second,2,0.11,ARE,United Arab Emirates,Asia
+1262,382,332,They are good looking,UAE,Women,Ranked third,3,0.11,ARE,United Arab Emirates,Asia
+1263,382,332,They are good looking,UAE,Women,Ranked fourth,4,0.19,ARE,United Arab Emirates,Asia
+1264,382,332,They are good looking,UAE,Women,Ranked fifth,5,0.23,ARE,United Arab Emirates,Asia
+1265,382,332,They are good looking,UAE,Women,Ranked sixth,6,0.25,ARE,United Arab Emirates,Asia
+1266,382,332,They have a personality I like,UAE,Women,Ranked first,1,0.43,ARE,United Arab Emirates,Asia
+1267,382,332,They have a personality I like,UAE,Women,Ranked second,2,0.18,ARE,United Arab Emirates,Asia
+1268,382,332,They have a personality I like,UAE,Women,Ranked third,3,0.14,ARE,United Arab Emirates,Asia
+1269,382,332,They have a personality I like,UAE,Women,Ranked fourth,4,0.1,ARE,United Arab Emirates,Asia
+1270,382,332,They have a personality I like,UAE,Women,Ranked fifth,5,0.11,ARE,United Arab Emirates,Asia
+1271,382,332,They have a personality I like,UAE,Women,Ranked sixth,6,0.04,ARE,United Arab Emirates,Asia
+1272,382,332,They have a sense of humour,UAE,Women,Ranked first,1,0.15,ARE,United Arab Emirates,Asia
+1273,382,332,They have a sense of humour,UAE,Women,Ranked second,2,0.22,ARE,United Arab Emirates,Asia
+1274,382,332,They have a sense of humour,UAE,Women,Ranked third,3,0.23,ARE,United Arab Emirates,Asia
+1275,382,332,They have a sense of humour,UAE,Women,Ranked fourth,4,0.17,ARE,United Arab Emirates,Asia
+1276,382,332,They have a sense of humour,UAE,Women,Ranked fifth,5,0.13,ARE,United Arab Emirates,Asia
+1277,382,332,They have a sense of humour,UAE,Women,Ranked sixth,6,0.09,ARE,United Arab Emirates,Asia
+1278,382,332,They are intelligent,UAE,Women,Ranked first,1,0.15,ARE,United Arab Emirates,Asia
+1279,382,332,They are intelligent,UAE,Women,Ranked second,2,0.21,ARE,United Arab Emirates,Asia
+1280,382,332,They are intelligent,UAE,Women,Ranked third,3,0.23,ARE,United Arab Emirates,Asia
+1281,382,332,They are intelligent,UAE,Women,Ranked fourth,4,0.2,ARE,United Arab Emirates,Asia
+1282,382,332,They are intelligent,UAE,Women,Ranked fifth,5,0.14,ARE,United Arab Emirates,Asia
+1283,382,332,They are intelligent,UAE,Women,Ranked sixth,6,0.06,ARE,United Arab Emirates,Asia
+1284,382,332,They have a decent amount of money,UAE,Women,Ranked first,1,0.03,ARE,United Arab Emirates,Asia
+1285,382,332,They have a decent amount of money,UAE,Women,Ranked second,2,0.1,ARE,United Arab Emirates,Asia
+1286,382,332,They have a decent amount of money,UAE,Women,Ranked third,3,0.1,ARE,United Arab Emirates,Asia
+1287,382,332,They have a decent amount of money,UAE,Women,Ranked fourth,4,0.15,ARE,United Arab Emirates,Asia
+1288,382,332,They have a decent amount of money,UAE,Women,Ranked fifth,5,0.19,ARE,United Arab Emirates,Asia
+1289,382,332,They have a decent amount of money,UAE,Women,Ranked sixth,6,0.43,ARE,United Arab Emirates,Asia
+1290,382,332,They have similar interests to me,UAE,Women,Ranked first,1,0.12,ARE,United Arab Emirates,Asia
+1291,382,332,They have similar interests to me,UAE,Women,Ranked second,2,0.18,ARE,United Arab Emirates,Asia
+1292,382,332,They have similar interests to me,UAE,Women,Ranked third,3,0.19,ARE,United Arab Emirates,Asia
+1293,382,332,They have similar interests to me,UAE,Women,Ranked fourth,4,0.18,ARE,United Arab Emirates,Asia
+1294,382,332,They have similar interests to me,UAE,Women,Ranked fifth,5,0.2,ARE,United Arab Emirates,Asia
+1295,382,332,They have similar interests to me,UAE,Women,Ranked sixth,6,0.13,ARE,United Arab Emirates,Asia
+1296,545,532,They are good looking,Vietnamese,Men,Ranked first,1,0.44,VNM,Vietnam,Asia
+1297,545,532,They are good looking,Vietnamese,Men,Ranked second,2,0.18,VNM,Vietnam,Asia
+1298,545,532,They are good looking,Vietnamese,Men,Ranked third,3,0.14,VNM,Vietnam,Asia
+1299,545,532,They are good looking,Vietnamese,Men,Ranked fourth,4,0.1,VNM,Vietnam,Asia
+1300,545,532,They are good looking,Vietnamese,Men,Ranked fifth,5,0.09,VNM,Vietnam,Asia
+1301,545,532,They are good looking,Vietnamese,Men,Ranked sixth,6,0.05,VNM,Vietnam,Asia
+1302,545,532,They have a personality I like,Vietnamese,Men,Ranked first,1,0.32,VNM,Vietnam,Asia
+1303,545,532,They have a personality I like,Vietnamese,Men,Ranked second,2,0.3,VNM,Vietnam,Asia
+1304,545,532,They have a personality I like,Vietnamese,Men,Ranked third,3,0.16,VNM,Vietnam,Asia
+1305,545,532,They have a personality I like,Vietnamese,Men,Ranked fourth,4,0.11,VNM,Vietnam,Asia
+1306,545,532,They have a personality I like,Vietnamese,Men,Ranked fifth,5,0.07,VNM,Vietnam,Asia
+1307,545,532,They have a personality I like,Vietnamese,Men,Ranked sixth,6,0.05,VNM,Vietnam,Asia
+1308,545,532,They have a sense of humour,Vietnamese,Men,Ranked first,1,0.04,VNM,Vietnam,Asia
+1309,545,532,They have a sense of humour,Vietnamese,Men,Ranked second,2,0.13,VNM,Vietnam,Asia
+1310,545,532,They have a sense of humour,Vietnamese,Men,Ranked third,3,0.2,VNM,Vietnam,Asia
+1311,545,532,They have a sense of humour,Vietnamese,Men,Ranked fourth,4,0.25,VNM,Vietnam,Asia
+1312,545,532,They have a sense of humour,Vietnamese,Men,Ranked fifth,5,0.24,VNM,Vietnam,Asia
+1313,545,532,They have a sense of humour,Vietnamese,Men,Ranked sixth,6,0.14,VNM,Vietnam,Asia
+1314,545,532,They are intelligent,Vietnamese,Men,Ranked first,1,0.11,VNM,Vietnam,Asia
+1315,545,532,They are intelligent,Vietnamese,Men,Ranked second,2,0.2,VNM,Vietnam,Asia
+1316,545,532,They are intelligent,Vietnamese,Men,Ranked third,3,0.25,VNM,Vietnam,Asia
+1317,545,532,They are intelligent,Vietnamese,Men,Ranked fourth,4,0.22,VNM,Vietnam,Asia
+1318,545,532,They are intelligent,Vietnamese,Men,Ranked fifth,5,0.17,VNM,Vietnam,Asia
+1319,545,532,They are intelligent,Vietnamese,Men,Ranked sixth,6,0.06,VNM,Vietnam,Asia
+1320,545,532,They have a decent amount of money,Vietnamese,Men,Ranked first,1,0.01,VNM,Vietnam,Asia
+1321,545,532,They have a decent amount of money,Vietnamese,Men,Ranked second,2,0.03,VNM,Vietnam,Asia
+1322,545,532,They have a decent amount of money,Vietnamese,Men,Ranked third,3,0.07,VNM,Vietnam,Asia
+1323,545,532,They have a decent amount of money,Vietnamese,Men,Ranked fourth,4,0.11,VNM,Vietnam,Asia
+1324,545,532,They have a decent amount of money,Vietnamese,Men,Ranked fifth,5,0.22,VNM,Vietnam,Asia
+1325,545,532,They have a decent amount of money,Vietnamese,Men,Ranked sixth,6,0.55,VNM,Vietnam,Asia
+1326,545,532,They have similar interests to me,Vietnamese,Men,Ranked first,1,0.08,VNM,Vietnam,Asia
+1327,545,532,They have similar interests to me,Vietnamese,Men,Ranked second,2,0.16,VNM,Vietnam,Asia
+1328,545,532,They have similar interests to me,Vietnamese,Men,Ranked third,3,0.18,VNM,Vietnam,Asia
+1329,545,532,They have similar interests to me,Vietnamese,Men,Ranked fourth,4,0.22,VNM,Vietnam,Asia
+1330,545,532,They have similar interests to me,Vietnamese,Men,Ranked fifth,5,0.21,VNM,Vietnam,Asia
+1331,545,532,They have similar interests to me,Vietnamese,Men,Ranked sixth,6,0.15,VNM,Vietnam,Asia
+1332,458,471,They are good looking,Vietnamese,Women,Ranked first,1,0.21,VNM,Vietnam,Asia
+1333,458,471,They are good looking,Vietnamese,Women,Ranked second,2,0.13,VNM,Vietnam,Asia
+1334,458,471,They are good looking,Vietnamese,Women,Ranked third,3,0.15,VNM,Vietnam,Asia
+1335,458,471,They are good looking,Vietnamese,Women,Ranked fourth,4,0.12,VNM,Vietnam,Asia
+1336,458,471,They are good looking,Vietnamese,Women,Ranked fifth,5,0.18,VNM,Vietnam,Asia
+1337,458,471,They are good looking,Vietnamese,Women,Ranked sixth,6,0.21,VNM,Vietnam,Asia
+1338,458,471,They have a personality I like,Vietnamese,Women,Ranked first,1,0.33,VNM,Vietnam,Asia
+1339,458,471,They have a personality I like,Vietnamese,Women,Ranked second,2,0.23,VNM,Vietnam,Asia
+1340,458,471,They have a personality I like,Vietnamese,Women,Ranked third,3,0.17,VNM,Vietnam,Asia
+1341,458,471,They have a personality I like,Vietnamese,Women,Ranked fourth,4,0.11,VNM,Vietnam,Asia
+1342,458,471,They have a personality I like,Vietnamese,Women,Ranked fifth,5,0.1,VNM,Vietnam,Asia
+1343,458,471,They have a personality I like,Vietnamese,Women,Ranked sixth,6,0.06,VNM,Vietnam,Asia
+1344,458,471,They have a sense of humour,Vietnamese,Women,Ranked first,1,0.11,VNM,Vietnam,Asia
+1345,458,471,They have a sense of humour,Vietnamese,Women,Ranked second,2,0.19,VNM,Vietnam,Asia
+1346,458,471,They have a sense of humour,Vietnamese,Women,Ranked third,3,0.16,VNM,Vietnam,Asia
+1347,458,471,They have a sense of humour,Vietnamese,Women,Ranked fourth,4,0.18,VNM,Vietnam,Asia
+1348,458,471,They have a sense of humour,Vietnamese,Women,Ranked fifth,5,0.2,VNM,Vietnam,Asia
+1349,458,471,They have a sense of humour,Vietnamese,Women,Ranked sixth,6,0.16,VNM,Vietnam,Asia
+1350,458,471,They are intelligent,Vietnamese,Women,Ranked first,1,0.19,VNM,Vietnam,Asia
+1351,458,471,They are intelligent,Vietnamese,Women,Ranked second,2,0.21,VNM,Vietnam,Asia
+1352,458,471,They are intelligent,Vietnamese,Women,Ranked third,3,0.2,VNM,Vietnam,Asia
+1353,458,471,They are intelligent,Vietnamese,Women,Ranked fourth,4,0.21,VNM,Vietnam,Asia
+1354,458,471,They are intelligent,Vietnamese,Women,Ranked fifth,5,0.11,VNM,Vietnam,Asia
+1355,458,471,They are intelligent,Vietnamese,Women,Ranked sixth,6,0.07,VNM,Vietnam,Asia
+1356,458,471,They have a decent amount of money,Vietnamese,Women,Ranked first,1,0.05,VNM,Vietnam,Asia
+1357,458,471,They have a decent amount of money,Vietnamese,Women,Ranked second,2,0.1,VNM,Vietnam,Asia
+1358,458,471,They have a decent amount of money,Vietnamese,Women,Ranked third,3,0.17,VNM,Vietnam,Asia
+1359,458,471,They have a decent amount of money,Vietnamese,Women,Ranked fourth,4,0.18,VNM,Vietnam,Asia
+1360,458,471,They have a decent amount of money,Vietnamese,Women,Ranked fifth,5,0.21,VNM,Vietnam,Asia
+1361,458,471,They have a decent amount of money,Vietnamese,Women,Ranked sixth,6,0.28,VNM,Vietnam,Asia
+1362,458,471,They have similar interests to me,Vietnamese,Women,Ranked first,1,0.1,VNM,Vietnam,Asia
+1363,458,471,They have similar interests to me,Vietnamese,Women,Ranked second,2,0.14,VNM,Vietnam,Asia
+1364,458,471,They have similar interests to me,Vietnamese,Women,Ranked third,3,0.14,VNM,Vietnam,Asia
+1365,458,471,They have similar interests to me,Vietnamese,Women,Ranked fourth,4,0.19,VNM,Vietnam,Asia
+1366,458,471,They have similar interests to me,Vietnamese,Women,Ranked fifth,5,0.2,VNM,Vietnam,Asia
+1367,458,471,They have similar interests to me,Vietnamese,Women,Ranked sixth,6,0.22,VNM,Vietnam,Asia
